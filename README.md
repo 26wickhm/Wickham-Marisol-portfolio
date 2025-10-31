@@ -1,15 +1,14 @@
 # Wickham–Marisol Portfolio
 
 <p align="center">
-  <a href="#project-overview">Overview</a> ·
   <a href="#donning-tube">Donning Tube</a> ·
-  <a href="#documentation">Documentation</a> ·
-  <a href="#makeracam">MakeraCAM</a>
+  <a href="#makeracam">MakeraCAM</a> ·
+  <a href="#documentation">Yearly Documentation</a> 
 </p>
 
 ---
 
-## Project Overview
+## Pearl Overview
 
 I am working with **Pearl (Atrium Hospital Rehabilitation Center)** to design and make medical assistive devices that either do not exist, are not customized, or are very expensive. The list below was given by nurses and doctors at the facility based on necessity of items. This allows us to cross-reference this with the level of difficulty of each project and set large goals and smaller goals to fill time.
 
@@ -37,8 +36,6 @@ I am working with **Pearl (Atrium Hospital Rehabilitation Center)** to design an
 | 18            | Book Holder                   | Fidgets                      |
 | 19            | Nail Polish Holder            | Pant Clips                   |
 
-> Tip: Use the “tab” links at the top to jump directly to each section.
-
 ---
 
 ## Donning Tube
@@ -58,35 +55,92 @@ I made **five different designs in Fusion360**. Two of them have handles (for th
 
 ## Documentation
 
-Use this section to link or embed:
-- Design files (e.g., Fusion 360, STEP, STL)
-- Photos / GIFs of prototypes and tests
-- Notes from user testing with clinicians and patients
-- Iteration logs and change history
+### Field & Lab Journal
 
-**Suggested structure**
-- `/design/` – CAD and exports  
-- `/fabrication/` – toolpaths, machine settings, materials  
-- `/testing/` – feedback notes, checklists, videos  
-- `/releases/` – printable STLs and build instructions
+**09/26/25 – First Visit**  
+Visited Atrium Carolinas Rehabilitation Center in Charlotte. We toured the assistive technology lab and observed several existing devices in use.  
+We also toured two gyms — one on the main floor and another for spinal/brain trauma patients. Met “Jordan,” a 23-year-old stroke patient practicing with a walker, and “Shaq,” a 21-year-old with a spinal cord injury. Discussed device improvements with nurses.
+
+---
+
+**10/06/25 – Donning Tube Design Start**  
+Began designing the donning tubes. Marisol led CAD design with team input on dimensions. Planned two variations (short/long) with three sizes each (small, medium, large).  
+Karlin & Caroline located a file for the quadstick mouthpiece and started printing. Scarlett completed a spreadsheet assigning project roles.
+
+---
+
+**10/07/25 – Iterations & Printing**  
+Marisol completed 5 donning tube designs and uploaded screenshots to Git. Scarlett started printing mounts and organizing supports in Bambu.  
+Karlin combined quadstick mouthpiece variations (3-hole narrow/wide, 4-hole narrow/wide) into one file and printed. Caroline absent.
+
+---
+
+**10/08/25 – Printing Adjustments**  
+Scarlett & Caroline printed a new video game mount using ratchet locking joints.  
+Marisol printed the medium-handled donning tube, scaled to 70% to fit the printer. Karlin reprinted quadstick mouthpieces with improved supports.
+
+---
+
+**10/10/25 – Water Bottle Holder Research**  
+Karlin researched wheelchair water bottle attachment methods.  
+Discovered that a **bike-style holster** works best and began designing a bottle + straw attachment.
+
+---
+
+**10/21/25 – Scheduling & Collaboration**  
+Created a team schedule spreadsheet to coordinate meetings with other students interested in Pearl.  
+Planned to delegate mass printing and redesign tasks to newer students — giving them lab experience while freeing design time for core members.  
+This collaboration will strengthen lab efficiency and mentorship.
+
+---
+
+**10/22/25 – Easy Grip Pill Crushers**  
+Worked on two pill crusher designs: **screw** and **press** mechanisms.  
+Printed both and observed that the screw model needs reinforcement at the crushing interface. Began designing a hinge bar for better function.  
+Also practiced GitHub formatting (tables, text styles).
+
+---
+
+**10/23/25 – Continued Design Work**  
+Focused on GitHub organization and documentation. Retrieved both pill crusher prints and began designing the hinge system referenced previously.
+
+---
+
+**10/27/25 – Learning MakeraCAM**  
+Explored new CNC software, **MakeraCAM**. Imported four files for learning toolpath setup.  
+Learned to center models with coordinates `(6,6)`, make pockets, contours, and drilling paths, and assign tools.  
+The new CNC machine’s automatic tool-changing feature increases efficiency compared to manual systems.
+
+---
+
+**10/30/25 – Pearl Presentation Prep**  
+Created a slideshow to present Pearl’s program to interested students. Included training schedule, program overview, and skill-level assessment.
+
+---
+
+**10/31/25 – CNC Workflow Practice**  
+Used the new CNC machine to mill a board using a MakeraCAM design. Specified depth, pockets, contours, and drilling per a shared workflow guide.  
+After starting the job, updated GitHub documentation and portfolio while monitoring progress.
 
 ---
 
 ## MakeraCAM
 
-This section will document your MakeraCAM workflows:
-- Machine: model, bed size, workholding
-- Materials: type, thickness, feeds & speeds
-- Tooling: endmills, stepdowns/stepovers
-- CAM strategy: roughing/finishing, ramps, tabs, lead-ins
-- Post-processing: sanding, deburring, fit checks
+This section documents CNC toolpath creation, materials, and workflow.
 
-**Template checklist**
-- [ ] Stock setup and Z-zero method  
-- [ ] Tool list with diameters and stick-out  
-- [ ] Feeds/speeds table per material  
-- [ ] Simulation screenshots  
-- [ ] Notes on tool wear and surface finish  
+**Software:** MakeraCAM  
+**Machine:** CNC (auto tool-changer enabled)
+
+### Learning Outcomes
+- Centering models via coordinate system  
+- Creating pockets, contours, and drill operations  
+- Tool assignment and g-code export  
+- Workflow efficiency and automation benefits  
+
+### Next Steps
+- Integrate more student-made designs into MakeraCAM  
+- Test toolpath accuracy with varied materials  
+- Document optimized feeds and speeds per tool type  
 
 ---
 
