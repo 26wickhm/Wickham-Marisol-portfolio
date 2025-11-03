@@ -1,9 +1,9 @@
 # Wickham–Marisol Portfolio
 
 <p align="center">
-  <a href="#donning-tube">Donning Tube</a> ·
-  <a href="#makeracam">MakeraCAM</a> ·
-  <a href="#documentation">Yearly Documentation</a> 
+  <a href="#donning-tube-section">Donning Tube</a> ·
+  <a href="#makeracam-section">MakeraCAM</a> ·
+  <a href="#documentation-section">Yearly Documentation</a> 
 </p>
 
 ---
@@ -38,6 +38,8 @@ I am working with **Pearl (Atrium Hospital Rehabilitation Center)** to design an
 
 ---
 
+<a name="donning-tube-section"></a>
+
 ## Donning Tube
 
 ### Project Overview
@@ -52,6 +54,8 @@ I made **five different designs in Fusion360**. Two of them have handles (for th
 - Goal: parameter-driven model (circumference, taper, wall thickness, handle geometry)
 
 ---
+
+<a name="documentation-section"></a>
 
 ## Documentation
 
@@ -113,35 +117,50 @@ The new CNC machine’s automatic tool-changing feature increases efficiency com
 
 ---
 
-**10/30/25 – Pearl Presentation Prep**  
-Created a slideshow to present Pearl’s program to interested students. Included training schedule, program overview, and skill-level assessment.
-
----
-
-**10/31/25 – CNC Workflow Practice**  
-Used the new CNC machine to mill a board using a MakeraCAM design. Specified depth, pockets, contours, and drilling per a shared workflow guide.  
-After starting the job, updated GitHub documentation and portfolio while monitoring progress.
-
----
+<a name="makeracam-section"></a>
 
 ## MakeraCAM
 
-This section documents CNC toolpath creation, materials, and workflow.
-
-**Software:** MakeraCAM  
-**Machine:** CNC (auto tool-changer enabled)
-
-### Learning Outcomes
-- Centering models via coordinate system  
-- Creating pockets, contours, and drill operations  
-- Tool assignment and g-code export  
-- Workflow efficiency and automation benefits  
-
-### Next Steps
-- Integrate more student-made designs into MakeraCAM  
-- Test toolpath accuracy with varied materials  
-- Document optimized feeds and speeds per tool type  
+We started using **MakeraCAM** with our new CNC machine that has an **auto tool-changer**.  
+This makes milling way faster and easier since it switches tools automatically — so you can start a job and work on something else while it runs.
 
 ---
 
-<p align="right"><a href="#wickham–marisol-portfolio">⬆ Back to top</a></p>
+### Learning the Software
+
+We learned how to:
+- Import files and center them using coordinates (like `(6,6)` for alignment)
+- Create **pockets**, **contours**, and **drilling paths**
+- Assign tools and set up tool changes
+- Export and run the g-code on the CNC
+
+Below is what the toolpath looks like in MakeraCAM before milling:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5eeaaf54-2f10-48fc-b0ff-80f51b4daf35" 
+       alt="MakeraCAM Toolpath Design" 
+       width="500" 
+       style="border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
+</p>
+
+---
+
+### Milling the Board
+
+After setting up the design, we placed the copper board on the CNC bed and ran the job.  
+It milled all the traces and drilled the holes automatically.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b5d3460f-83e0-4d6b-a80f-33e3520c1d81" 
+       alt="Milled Copper Board" 
+       width="450" 
+       style="border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
+</p>
+
+---
+
+### Notes & Takeaways
+
+- The auto tool-changer saves a lot of time  
+- The traces came out clean and sharp  
+- We learned how to adjust feed rates, depth, and pocketing for different materials  
