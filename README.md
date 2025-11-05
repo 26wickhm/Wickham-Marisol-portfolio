@@ -17,7 +17,7 @@
 
 ---
 
-## 🔗 Explore My Work
+## 🔗 My Work
 
 - [Pearl Project](pearl.md)  
 - [MakeraCAM](makeracam.md)  
