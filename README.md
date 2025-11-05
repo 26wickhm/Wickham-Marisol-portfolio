@@ -19,9 +19,9 @@
 
 ## 🔗 Explore My Work
 
-- [💎 Pearl Project](pearl.md)  
-- [⚙️ MakeraCAM](makeracam.md)  
-- [🧾 Documentation](documentation.md)
+- [Pearl Project](pearl.md)  
+- [MakeraCAM](makeracam.md)  
+- [Documentation](documentation.md)
 
 ---
 
