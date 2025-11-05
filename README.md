@@ -68,14 +68,14 @@ This allows us to cross-reference this with the level of difficulty of each proj
 Our team operates on a rotating leadership system every two months to ensure that everyone gains experience in both design and management roles.  
 Each position is responsible for overseeing a specific aspect of Pearl’s development and collaboration with the Atrium Hospital Rehabilitation Center.
 
-### Leadership Rotation
+## Leadership Rotation
 
 | **Name** | **Position** | **Role Overview** |
-|-----------|---------------|------------------|
-| **Marisol** | Operations Lead | Oversees lab operations, training sessions, and project scheduling for 30–40 students assisting in mass production. Coordinates communication between design leads and production teams. |
-| **Caroline** | Project Coordinator | Communicates with hospital staff and manages timelines/deadlines to ensure all deliverables align with medical needs and facility feedback. |
-| **Karlin** | Technical and Design Lead | Researches and approves device designs. Creates build plans for larger groups and oversees CAD accuracy and manufacturability. |
-| **Scarlett** | Quality Assurance & Safety Lead | Maintains product standards and ensures safety compliance within lab workspaces. Manages inspection and testing of final devices before hospital delivery. |
+| --- | --- | --- |
+| **Marisol** | Operations Lead | Manages lab operations, training, and production schedules. Coordinates between design and production teams. |
+| **Caroline** | Project Coordinator | Liaises with hospital staff and ensures deliverables meet medical timelines and feedback. |
+| **Karlin** | Technical & Design Lead | Oversees device design, CAD accuracy, and manufacturability for large production runs. |
+| **Scarlett** | Quality & Safety Lead | Ensures product standards, safety compliance, and final inspection before delivery. |
 
 
 #### Operations Lead – Marisol (Current Role)
