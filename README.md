@@ -65,8 +65,7 @@ This allows us to cross-reference this with the level of difficulty of each proj
 
 ### Leadership Positions
 
-Our team operates on a rotating leadership system every two months to ensure that everyone gains experience in both design and management roles.  
-Each position is responsible for overseeing a specific aspect of Pearl’s development and collaboration with the Atrium Hospital Rehabilitation Center.
+Our team operates on a rotating leadership system every two months to ensure that everyone gains experience in both design and management roles. Each position is responsible for overseeing a specific aspect of Pearl’s development and collaboration with the Atrium Hospital Rehabilitation Center.
 
 ## Leadership Rotation
 
@@ -80,8 +79,7 @@ Each position is responsible for overseeing a specific aspect of Pearl’s devel
 
 #### Operations Lead – Marisol (Current Role)
 As **Operations Lead**, I am responsible for managing training for all student participants.  
-This includes organizing schedules, creating structured training groups by experience level (CAD, 3D printing, and soldering), and leading onboarding sessions for new members.  
-I also coordinate meetings between the design team and production students to ensure deadlines are met and that communication remains clear throughout the project cycle.
+This includes organizing schedules, creating structured training groups by experience level (CAD, 3D printing, and soldering), and leading onboarding sessions for new members. I also coordinate meetings between the design team and production students to ensure deadlines are met and that communication remains clear throughout the project cycle.
 
 ---
 
