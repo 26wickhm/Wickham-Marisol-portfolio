@@ -1,22 +1,19 @@
-<p align="center">
-  <img src="0.jpg" 
-       alt="Marisol Wickham" 
-       width="160" 
-       style="border-radius: 50%; box-shadow: 0 2px 6px rgba(0,0,0,0.25);">
-</p>
-
-<h1 align="center">Marisol Wickham</h1>
-
-<p align="center">
-  <strong>Maker Team · Pearl Project · Future Engineer</strong>
-</p>
+<h1 align="center">Marisol Wickham Digital Portfolio</h1>
 
 ---
 
-## 👋 About Me
-
-Hi! I’m **Marisol Wickham**, a student at **[Your High School Name]**, and I’ll be attending **[Your College Name]** in Fall 2025.  
-I’m passionate about design, engineering, and assistive technology — creating tools that make daily life easier for people who need them most.  
+<table align="center">
+  <tr>
+    <td align="center" width="180">
+      <img src="https://github.com/user-attachments/assets/90257fea-2897-4834-806e-7e3c125080af" width="140" style="border-radius:50%;">
+    </td>
+    <td align="left" style="vertical-align: middle;">
+      <h3>Marisol Wickham</h3>
+      <p> <strong>Charlotte Latin School</strong> — Class of 2026<br>
+       <strong>Wake Forest University</strong> — Class of 2030</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
