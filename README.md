@@ -71,10 +71,10 @@ Our team operates on a rotating leadership system every two months to ensure tha
 
 | **Name** | **Position** | **Role Overview** |
 | --- | --- | --- |
-| **Marisol** | Operations Lead | Manages lab operations, training, and production schedules. Coordinates between design and production teams. |
-| **Caroline** | Project Coordinator | Liaises with hospital staff and ensures deliverables meet medical timelines and feedback. |
-| **Karlin** | Technical & Design Lead | Oversees device design, CAD accuracy, and manufacturability for large production runs. |
-| **Scarlett** | Quality & Safety Lead | Ensures product standards, safety compliance, and final inspection before delivery. |
+| **Marisol** |    Operations Lead    | Manages lab operations, training, and production schedules. Coordinates between design and production teams. |
+| **Caroline** |    Project Coordinator    | Liaises with hospital staff and ensures deliverables meet medical timelines and feedback. |
+| **Karlin** |    Technical & Design Lead    | Oversees device design, CAD accuracy, and manufacturability for large production runs. |
+| **Scarlett** |    Quality & Safety Lead    | Ensures product standards, safety compliance, and final inspection before delivery. |
 
 
 #### Operations Lead – Marisol (Current Role)
