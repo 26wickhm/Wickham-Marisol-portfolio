@@ -82,17 +82,6 @@ Donning Tubes are a tool to put on compression socks.
 This is important for amputee patients and others who need assistance.  
 The compression sock (shrinker) is loaded onto the tube and then slid onto the limb.
 
-<hr>
-
-<h3 id="donning-tube-parametric">Parametric Designs (With & Without Handles)</h3>
-
-<p>
-I created <strong>two parametric Donning Tube designs</strong> — one with handles and one without.  
-This approach improves <strong>efficiency</strong>, <strong>customizability</strong>, and <strong>ease of training</strong>.  
-Now, students can quickly adjust dimensions (like height, diameter, or handle size) without modifying the base model.
-
----
-
 ### Parametric Designs (With & Without Handles)
 
 I created **two parametric Donning Tube designs** — one **with handles** and one **without**.  
@@ -101,7 +90,7 @@ By changing only key parameters (diameter, height, handle size), we can generate
 
 ---
 
-## Version A — With Handles
+#### Version A — With Handles
 
 | ![Donning tube with handles render](https://github.com/user-attachments/assets/ab70dc7d-da51-4d92-9ed5-4c896518ab5b) | ![Donning tube with handles parameters](https://github.com/user-attachments/assets/7d27e45d-5e66-4755-817f-c04c4b70c243) |
 |:--:|:--:|
@@ -109,7 +98,7 @@ By changing only key parameters (diameter, height, handle size), we can generate
 
 ---
 
-## Version B — Without Handles
+#### Version B — Without Handles
 
 | ![Donning tube without handles render](https://github.com/user-attachments/assets/ed43fa29-e428-4282-ac80-c2f1bb706844) | ![Donning tube without handles parameters](https://github.com/user-attachments/assets/cbe9640d-483a-45b7-85ec-3c7d9253bd38) |
 |:--:|:--:|
