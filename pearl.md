@@ -101,19 +101,21 @@ By changing only key parameters (diameter, height, handle size), we can generate
 
 ---
 
-#### 🧩 Version A — With Handles
+## Version A — With Handles
 
-| ![Donning tube with handles render](LINK_1) | ![Donning tube with handles parameters](LINK_2) |
+| ![Donning tube with handles render](https://github.com/user-attachments/assets/ab70dc7d-da51-4d92-9ed5-4c896518ab5b) | ![Donning tube with handles parameters](LINK_2) |
 |:--:|:--:|
 | **Render** — Cylindrical tube with two ergonomic handles for better grip and leverage. | **Parameters** — Adjustable diameter, height, handle length/width/height, and fillets for quick customization. |
 
 ---
 
-#### ⚙️ Version B — Without Handles
+## Version B — Without Handles
 
 | ![Donning tube without handles render](LINK_3) | ![Donning tube without handles parameters](LINK_4) |
 |:--:|:--:|
 | **Render** — Compact version without handles; ideal when space or print time matters. | **Parameters** — Simplified parametric setup with adjustable diameter and height for quick resizing. |
+
+
 
 ---
 
