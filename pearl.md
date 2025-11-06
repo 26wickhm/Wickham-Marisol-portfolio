@@ -103,7 +103,7 @@ By changing only key parameters (diameter, height, handle size), we can generate
 
 ## Version A — With Handles
 
-| ![Donning tube with handles render](https://github.com/user-attachments/assets/ab70dc7d-da51-4d92-9ed5-4c896518ab5b) | ![Donning tube with handles parameters](LINK_2) |
+| ![Donning tube with handles render](https://github.com/user-attachments/assets/ab70dc7d-da51-4d92-9ed5-4c896518ab5b) | ![Donning tube with handles parameters](https://github.com/user-attachments/assets/7d27e45d-5e66-4755-817f-c04c4b70c243) |
 |:--:|:--:|
 | **Render** — Cylindrical tube with two ergonomic handles for better grip and leverage. | **Parameters** — Adjustable diameter, height, handle length/width/height, and fillets for quick customization. |
 
@@ -111,16 +111,15 @@ By changing only key parameters (diameter, height, handle size), we can generate
 
 ## Version B — Without Handles
 
-| ![Donning tube without handles render](LINK_3) | ![Donning tube without handles parameters](LINK_4) |
+| ![Donning tube without handles render](https://github.com/user-attachments/assets/ed43fa29-e428-4282-ac80-c2f1bb706844) | ![Donning tube without handles parameters](https://github.com/user-attachments/assets/cbe9640d-483a-45b7-85ec-3c7d9253bd38) |
 |:--:|:--:|
 | **Render** — Compact version without handles; ideal when space or print time matters. | **Parameters** — Simplified parametric setup with adjustable diameter and height for quick resizing. |
 
 
-
----
-
-**Next Steps:**  
-Export parameter sets for S/M/L, test handle ergonomics, and finalize wall thickness for durability.
+**Next Steps:** 
+- test on patients at the hospital
+- train students in parametrics and using the Bambu printers
+- track how much of a need there are for donning tubes and calculate price and projected production
 
 
 
