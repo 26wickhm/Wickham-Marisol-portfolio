@@ -82,13 +82,92 @@ Donning Tubes are a tool to put on compression socks.
 This is important for amputee patients and others who need assistance.  
 The compression sock (shrinker) is loaded onto the tube and then slid onto the limb.
 
-I made **five different designs in Fusion360**:
-- 2 with handles (assist with pull force and grip)
-- 3 without handles (compact and simple to fabricate)
+<hr>
 
-Goal: Create a **parametric design** that adapts to limb dimensions.
+<h3 id="donning-tube-parametric">Parametric Designs (With & Without Handles)</h3>
 
-**Design Notes**
-- 2× handle versions (assist with pull force and grip)
-- 3× no-handle versions (compact, simpler to fabricate)
-- Goal: parameter-driven model (circumference, taper, wall thickness, handle geometry)
+<p>
+I created <strong>two parametric Donning Tube designs</strong> — one with handles and one without.  
+This approach improves <strong>efficiency</strong>, <strong>customizability</strong>, and <strong>ease of training</strong>.  
+Now, students can quickly adjust dimensions (like height, diameter, or handle size) without modifying the base model.
+</p>
+
+<ul>
+  <li><strong>Efficiency:</strong> Adjust key parameters instead of rebuilding geometry.</li>
+  <li><strong>Customizability:</strong> Generate new tube sizes for different patients instantly.</li>
+  <li><strong>Training:</strong> Simplifies workflow for students learning parametric modeling.</li>
+</ul>
+
+<style>
+  .imggrid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+    margin: 12px 0 20px;
+  }
+  .imggrid .card {
+    flex: 1 1 360px;
+    max-width: 520px;
+    background: #fafafa;
+    border: 1px solid #e5e5e5;
+    border-radius: 12px;
+    padding: 10px;
+  }
+  .imggrid img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    display: block;
+  }
+  .imgcap {
+    margin: .6rem 0 0;
+    font-size: .92rem;
+    color: #555;
+  }
+  @media (max-width: 560px) {
+    .imggrid { flex-direction: column; }
+  }
+</style>
+
+<!-- Row 1: With Handles -->
+<h4>Version A — With Handles</h4>
+<div class="imggrid">
+  <figure class="card">
+    <img src="" alt="Donning tube with handles render">
+    <figcaption class="imgcap"><strong>Render</strong> — Cylindrical tube with two ergonomic handles for improved grip and leverage.</figcaption>
+  </figure>
+  <figure class="card">
+    <img src="https://files.oaiusercontent.com/file_00000000c1cc71f6a29d26d6c94100fe" alt="Donning tube with handles parameters">
+    <figcaption class="imgcap"><strong>Parameters</strong> — Adjustable diameter, height, handle dimensions, and fillets for easy customization.</figcaption>
+  </figure>
+</div>
+
+<!-- Row 2: Without Handles -->
+<h4>Version B — Without Handles</h4>
+<div class="imggrid">
+  <figure class="card">
+    <img src="https://files.oaiusercontent.com/file_00000000412471f688fad49fac246a75" alt="Donning tube without handles render">
+    <figcaption class="imgcap"><strong>Render</strong> — Compact version without handles; ideal for limited material or smaller limb fittings.</figcaption>
+  </figure>
+  <figure class="card">
+    <img src="https://files.oaiusercontent.com/file_0000000003d471f68a89989aa7fb254e" alt="Donning tube without handles parameters">
+    <figcaption class="imgcap"><strong>Parameters</strong> — Simplified design with parametric diameter and height for quick resizing.</figcaption>
+  </figure>
+</div>
+
+<p><em>Next Steps:</em> Export parameter sets for S/M/L versions, test usability with handle variations, and finalize wall thickness and material specs for hospital use.</p>
+
+
+<img width="1192" height="1042" alt="Screenshot 2025-11-05 192056" src="https://github.com/user-attachments/assets/d7ac6cb8-4f7d-486d-aa9d-36337e90f16c" />
+
+<img width="2992" height="1403" alt="Screenshot 2025-11-05 192131" src="https://github.com/user-attachments/assets/bea62f4e-51bf-4426-8665-09d5d041f805" />
+
+<img width="1170" height="1060" alt="Screenshot 2025-11-05 192222" src="https://github.com/user-attachments/assets/0978fbb8-04c7-4975-b380-3b5246e0988a" />
+
+
+<img width="3048" height="1163" alt="Screenshot 2025-11-05 192256" src="https://github.com/user-attachments/assets/d5efbf65-bc9a-4cc6-932a-41dd5a577aa6" />
+
+
+
+
+
