@@ -6,8 +6,7 @@
 
 ## Overview
 
-We started using **MakeraCAM** with our new CNC machine that has an **auto tool-changer**.  
-This makes milling way faster and easier since it switches tools automatically — so you can start a job and work on something else while it runs.
+We started using **MakeraCAM** with our new CNC machine that has an **auto tool-changer**. This makes milling way faster and easier since it switches tools automatically — so you can start a job and work on something else while it runs.
 
 ---
 
@@ -32,8 +31,7 @@ Below is what the toolpath looks like in MakeraCAM before milling:
 
 ### Milling the Board
 
-After setting up the design, we placed the copper board on the CNC bed and ran the job.  
-It milled all the traces and drilled the holes automatically.
+After setting up the design, we placed the copper board on the CNC bed and ran the job. It milled all the traces and drilled the holes automatically.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b5d3460f-83e0-4d6b-a80f-33e3520c1d81" 
