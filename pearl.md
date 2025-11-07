@@ -16,9 +16,7 @@
 
 ## Overview
 
-I am working with **Pearl (Atrium Hospital Rehabilitation Center)** to design and make medical assistive devices that either do not exist, are not customized, or are very expensive.  
-The list below was given by nurses and doctors at the facility based on necessity of items.  
-This allows us to cross-reference this with the level of difficulty of each project and set large goals and smaller goals to fill time.
+I am working with **Pearl (Atrium Hospital Rehabilitation Center)** to design and make medical assistive devices that either do not exist, are not customized, or are very expensive. The list below was given by nurses and doctors at the facility based on necessity of items. This allows us to cross-reference this with the level of difficulty of each project and set large goals and smaller goals to fill time.
 
 ---
 
@@ -56,8 +54,7 @@ This allows us to cross-reference this with the level of difficulty of each proj
 
 ## Leadership Positions
 
-Our team operates on a rotating leadership system every two months to ensure that everyone gains experience in both design and management roles.  
-Each position oversees a specific aspect of Pearl’s development and collaboration with the Atrium Hospital Rehabilitation Center.
+Our team operates on a rotating leadership system every two months to ensure that everyone gains experience in both design and management roles. Each position oversees a specific aspect of Pearl’s development and collaboration with the Atrium Hospital Rehabilitation Center.
 
 | **Name** | **Position** | **Role Overview** |
 | --- | --- | --- |
@@ -85,8 +82,7 @@ The compression sock (shrinker) is loaded onto the tube and then slid onto the l
 ### Parametric Designs (With & Without Handles)
 
 I created **two parametric Donning Tube designs** — one **with handles** and one **without**.  
-This parametric setup improves **efficiency**, **customizability**, and **training simplicity** for students I teach in the lab.  
-By changing only key parameters (diameter, height, handle size), we can generate new sizes instantly without editing geometry.
+This parametric setup improves **efficiency**, **customizability**, and **training simplicity** for students I teach in the lab. By changing only key parameters (diameter, height, handle size), we can generate new sizes instantly without editing geometry.
 
 ---
 
