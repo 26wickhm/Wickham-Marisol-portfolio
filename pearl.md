@@ -16,7 +16,7 @@
 
 ## Overview
 
-I am working with **Pearl (Atrium Hospital Rehabilitation Center)** to design and make medical assistive devices that either do not exist, are not customized, or are very expensive. The list below was given by nurses and doctors at the facility based on necessity of items. This allows us to cross-reference this with the level of difficulty of each project and set large goals and smaller goals to fill time.
+I am working with **Pearl (Atrium Hospital Rehabilitation Center)** with three other students to design and make medical assistive devices that either do not exist, are not customized, or are very expensive. The list below was given by nurses and doctors at the facility based on necessity of items. This allows us to cross-reference this with the level of difficulty of each project and set large goals and smaller goals to fill time.
 
 ---
 
