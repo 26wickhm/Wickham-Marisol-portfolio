@@ -38,6 +38,9 @@ We learned how to:
 
 [Open Resistance1-PTH.drl](https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/files/pcb/Resistance1-PTH.drl)
 
+This file contains the gcode that I sent to the CNC machine
+[ResistorGcode.nc](https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/files/pcb/ResistorGcode.nc)
+
 Below is the progression of creating the toolpaths (These images are provided by Mr. Dubick in his workflow):
 ![beforetoolpathed_PCB.png](https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/images/pcb/ss_beforetoolpathed_PCB.png)
 ![ss-pocketPCB.png](https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/images/pcb/ss-pocketPCB.png)
