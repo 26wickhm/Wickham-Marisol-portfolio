@@ -4,6 +4,19 @@
 
 ---
 
+## **Table of Contents**
+- [Overview](#overview)
+- [Learning the Software](#learning-the-software)
+- [Files](#files)
+- [Milling the Board](#milling-the-board)
+- [Notes & Takeaways](#notes--takeaways)
+- [Important Decisions](#important-decisions)
+- [Workflow](#workflow)
+- [Documentation from this work](#documentation-from-this-work)
+- [Summary](#summary)
+
+---
+
 ## Overview
 
 We started using **MakeraCAM** with our new CNC machine that has an **auto tool-changer**. This makes milling way faster and easier since it switches tools automatically — so you can start a job and work on something else while it runs.
@@ -25,7 +38,6 @@ We learned how to:
 
 [Open Resistance1-PTH.drl](https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/files/pcb/Resistance1-PTH.drl)
 
-
 Below is what the toolpath looks like in MakeraCAM before milling:
 
 ![ss_toolpathPCB.png](https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/images/pcb/ss_toolpathPCB.png)
@@ -37,6 +49,7 @@ Below is what the toolpath looks like in MakeraCAM before milling:
 After setting up the design, we placed the copper board on the CNC bed and ran the job. It milled all the traces and drilled the holes automatically.
 
 ![ss_completedPCB.png](https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/images/pcb/ss_completedPCB.png)
+
 ---
 
 ### Notes & Takeaways
@@ -183,13 +196,15 @@ Upload the exported file into your folder in the Fab Google Drive.
 
 The machine will probe 25 points on the PCB, then begin milling.
 
-### Documentation from this work 
-**(full documentation can be found by clicking on "Documentation" on the Home Page)** These journals are from the two days that I dedicated to MakeraCam. The first day follows my learning process on a moniter and the second day tracks my actual use of the machine.
+# Documentation from this work 
+
+**(full documentation can be found by clicking on "Documentation" on the Home Page)**  
+These journals are from the two days that I dedicated to MakeraCam. The first day follows my learning process on a moniter and the second day tracks my actual use of the machine.
 
 10/27/25 Today we learned about a new software called MakeraCAM. I have never worked on this before, and at first it was very complicated. We pulled 3 files from the main drive (FabLab Drive under Dubick folder) so that we could focus on how to specify it instead of the actual design right now. I learned how to center the design (using coordinates (6, 6) and making a pocket, contour, and drilling. I also learned how to add specific tools depending on what kind of cuts I want the machine to make. This was helpful because I was able to learn new software (which will come in handy now that we have a new CNC machine). The benefits of this machine is that it switches out the tools unlike the manual version. This means that we can walk away after getting the g-code started, which leads to more efficiency in the lab.
 
 10/31/25 Today I used our new CNC machine to mill a board. This was from a design that I made on Makera (the files were precreated but I had to specify the design depth, where to pocket, contour, and drill). This involved following a workflow created by a classmate that I altered to make more sense to me personally. This made the slightly complicated setup much easier to follow and check. I spent the other half of class (after I started running the program) on Github and updating my documentation and digital portfolio.
 
+# Summary
 
-**Summary:**
-I think that this project was a good way to focus on creating and sending the gcode to the MakeraCam without getting caught up in the design. I realized how much a workflow can help during this assignment and feel confident in my ability to set up and run the new CNC machine. This is also very interesting because it is much more cost efficient and helpful for the electronic part of my Capstone Peoject (depending on which Pearl projects require it). I plan to get more comfortable with it during my mountain range project and want to learn how to use the CNC machine on different materials with different tools. 
+I think that this project was a good way to focus on creating and sending the gcode to the MakeraCam without getting caught up in the design. I realized how much a workflow can help during this assignment and feel confident in my ability to set up and run the new CNC machine. This is also very interesting because it is much more cost efficient and helpful for the electronic part of my Capstone Peoject (depending on which Pearl projects require it). I plan to get more comfortable with it during my mountain range project and want to learn how to use the CNC machine on different materials with different tools.
