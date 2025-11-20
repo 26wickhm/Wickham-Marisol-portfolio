@@ -21,7 +21,7 @@ We learned how to:
 ### Files 
 [Download Resistance1-Edge_Cuts.gbr](https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/files/pcb/Resistance1-Edge_Cuts.gbr)
 [Download Resistance1-F_Cu.gbr](https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/files/pcb/Resistance1-F_Cu.gbr)
-[Download Resistance1-PTH.drl](
+[Download Resistance1-PTH.drl](https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/files/pcb/Resistance1-PTH.drl)
 
 
 Below is what the toolpath looks like in MakeraCAM before milling:
