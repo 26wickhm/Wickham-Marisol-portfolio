@@ -191,3 +191,5 @@ The machine will probe 25 points on the PCB, then begin milling.
 10/31/25 Today I used our new CNC machine to mill a board. This was from a design that I made on Makera (the files were precreated but I had to specify the design depth, where to pocket, contour, and drill). This involved following a workflow created by a classmate. This made the slightly complicated setup much easier to follow and check. I spent the other half of class (after I started running the program) on Github and updating my documentation and digital portfolio.
 
 
+**Summary:**
+I think that this project was a good way to focus on creating and sending the gcode to the MakeraCam without getting caught up in the design. I realized how much a workflow can help during this assignment and feel confident in my ability to set up and run the new CNC machine. This is also very interesting because it is much more cost efficient and helpful for the electronic part of my Capstone Peoject (depending on which Pearl projects require it). I plan to get more comfortable with it during my mountain range project and want to learn how to use the CNC machine on different materials with different tools. 
