@@ -41,7 +41,7 @@ We learned how to:
 Below is the progression of creating the toolpaths:
 ![beforetoolpathed_PCB.png](https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/images/pcb/ss_beforetoolpathed_PCB.png)
 ![ss-pocketPCB.png](https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/images/pcb/ss-pocketPCB.png)
-![ss-drilling_PCB.png]()
+![ss-drilling_PCB.png](https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/images/pcb/ss-drilling_PCB.png)
 
 
 Below is what the toolpath looks like in MakeraCAM before milling:
