@@ -18,7 +18,8 @@ We learned how to:
 - Assign tools and set up tool changes
 - Export and run the g-code on the CNC
 
-
+### Files 
+[Download Resistance1-Edge_Cuts.gbr] (
 
 
 Below is what the toolpath looks like in MakeraCAM before milling:
