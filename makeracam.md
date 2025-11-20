@@ -29,7 +29,7 @@ We learned how to:
 Below is what the toolpath looks like in MakeraCAM before milling:
 
 <p align="center">
-  [Download ss_PCBtoolpath](
+  [Download ss_PCBtoolpath](https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/images/ss_PCBtoolpath)
 </p>
 
 ---
@@ -39,10 +39,7 @@ Below is what the toolpath looks like in MakeraCAM before milling:
 After setting up the design, we placed the copper board on the CNC bed and ran the job. It milled all the traces and drilled the holes automatically.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b5d3460f-83e0-4d6b-a80f-33e3520c1d81" 
-       alt="Milled Copper Board" 
-       width="450" 
-       style="border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
+  [Download ss_PCBfinal](
 </p>
 
 ---
