@@ -29,10 +29,7 @@ We learned how to:
 Below is what the toolpath looks like in MakeraCAM before milling:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5eeaaf54-2f10-48fc-b0ff-80f51b4daf35" 
-       alt="MakeraCAM Toolpath Design" 
-       width="500" 
-       style="border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
+  [Download ss_PCBtoolpath](
 </p>
 
 ---
