@@ -18,13 +18,13 @@ We learned how to:
 - Assign tools and set up tool changes
 - Export and run the g-code on the CNC
 
-### Files 
-### Files  
-[Download Resistance1-Edge_Cuts.gbr](https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/files/pcb/Resistance1-Edge_Cuts.gbr?raw=1)
+## Files  
+[Download Resistance1-Edge_Cuts.gbr](https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/files/pcb/Resistance1-Edge_Cuts.gbr?download=1)
 
-[Download Resistance1-F_Cu.gbr](https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/files/pcb/Resistance1-F_Cu.gbr?raw=1)
+[Download Resistance1-F_Cu.gbr](https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/files/pcb/Resistance1-F_Cu.gbr?download=1)
 
-[Download Resistance1-PTH.drl](https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/files/pcb/Resistance1-PTH.drl?raw=1)
+[Download Resistance1-PTH.drl](https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/files/pcb/Resistance1-PTH.drl?download=1)
+
 
 Below is what the toolpath looks like in MakeraCAM before milling:
 
