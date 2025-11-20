@@ -28,7 +28,7 @@ We learned how to:
 
 Below is what the toolpath looks like in MakeraCAM before milling:
 
-![ss_toolpathPCB.png](
+![ss_toolpathPCB.png](https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/images/pcb/ss_toolpathPCB.png)
 
 ---
 
