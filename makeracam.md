@@ -38,18 +38,22 @@ We learned how to:
 
 [Open Resistance1-PTH.drl](https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/files/pcb/Resistance1-PTH.drl)
 
-This file contains the gcode that I sent to the CNC machine
+This file contains the gcode that I sent to the CNC machine  
 [ResistorGcode.nc](https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/files/pcb/ResistorGcode.nc)
 
-Below is the progression of creating the toolpaths (These images are provided by Mr. Dubick in his workflow):
-![beforetoolpathed_PCB.png](https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/images/pcb/ss_beforetoolpathed_PCB.png)
-![ss-pocketPCB.png](https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/images/pcb/ss-pocketPCB.png)
-![ss-drilling_PCB.png](https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/images/pcb/ss-drilling_PCB.png)
+---
 
+### Toolpath Creation Progression  
+
+| **Before Toolpath** | **Pocketing** | **Drilling** |
+|---------------------|---------------|--------------|
+| <img src="https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/images/pcb/ss_beforetoolpathed_PCB.png" width="250"> | <img src="https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/images/pcb/ss-pocketPCB.png" width="250"> | <img src="https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/images/pcb/ss-drilling_PCB.png" width="250"> |
+
+---
 
 Below is what the toolpath looks like in MakeraCAM before milling:
 
-![ss_toolpathPCB.png](https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/images/pcb/ss_toolpathPCB.png)
+<img src="https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/images/pcb/ss_toolpathPCB.png" width="300">
 
 ---
 
@@ -57,7 +61,7 @@ Below is what the toolpath looks like in MakeraCAM before milling:
 
 After setting up the design, we placed the copper board on the CNC bed and ran the job. It milled all the traces and drilled the holes automatically.
 
-![ss_completedPCB.png](https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/images/pcb/ss_completedPCB.png)
+<img src="https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/images/pcb/ss_completedPCB.png" width="300">
 
 ---
 
