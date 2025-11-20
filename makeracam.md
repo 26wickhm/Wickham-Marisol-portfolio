@@ -181,7 +181,9 @@ Upload the exported file into your folder in the Fab Google Drive.
 
 The machine will probe 25 points on the PCB, then begin milling.
 
-### Documentation from this work (full documentation can be found by clicking on "Documentation" on the Home Page)
+### Documentation from this work 
+**(full documentation can be found by clicking on "Documentation" on the Home Page)**
+
 10/27/25 Today we learned about a new software called MakeraCAM. I have never worked on this before, and at first it was very complicated. We pulled 4 files from the main drive so that we could focus on how to specify it instead of the actual design right now. I learned how to center the design (using coordinates (6, 6) and making a pocket, contour, and drilling. I also learned how to add specific tools. This was helpful because I was able to learn new software (which will come in handy now that we have a new CNC machine). The benefits of this machine is that it switches out the tools unlike the manual version. This means that we can walk away after getting the g-code started, which leads to more efficiency in the lab.
 
 10/31/25 Today I used our new CNC machine to mill a board. This was from a design that I made on Makera (the files were precreated but I had to specify the design depth, where to pocket, contour, and drill). This involved following a workflow created by a classmate. This made the slightly complicated setup much easier to follow and check. I spent the other half of class (after I started running the program) on Github and updating my documentation and digital portfolio.
