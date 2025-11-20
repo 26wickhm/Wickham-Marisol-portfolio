@@ -38,6 +38,12 @@ We learned how to:
 
 [Open Resistance1-PTH.drl](https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/files/pcb/Resistance1-PTH.drl)
 
+Below is the progression of creating the toolpaths:
+![beforetoolpathed_PCB.png]()
+![ss-pocketPCB.png]()
+![ss-drilling_PCB.png]()
+
+
 Below is what the toolpath looks like in MakeraCAM before milling:
 
 ![ss_toolpathPCB.png](https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/images/pcb/ss_toolpathPCB.png)
