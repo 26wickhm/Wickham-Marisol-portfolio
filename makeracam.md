@@ -46,7 +46,9 @@ After setting up the design, we placed the copper board on the CNC bed and ran t
 - We learned how to adjust feed rates, depth, and pocketing for different materials
 
 #### Challenges
-- There were no big challenges and my PCB board came out well the first time
+- A challenge that I had was in the software while learning when to select which groups of lines for each direction
+    - I overcame this by following the workflow carefully and realizing when to restart 
+- There were no big challenges while milling and my PCB board came out well the first time
 - It did take me a few tries to learn how to run the software and set up the board (which screws to unscrew)
 
 ### Important Decisions 
