@@ -47,13 +47,13 @@ This file contains the gcode that I sent to the CNC machine
 
 | **Before Toolpath** | **Pocketing** | **Drilling** |
 |---------------------|---------------|--------------|
-| <img src="https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/images/pcb/ss_beforetoolpathed_PCB.png" width="250"> | <img src="https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/images/pcb/ss-pocketPCB.png" width="250"> | <img src="https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/images/pcb/ss-drilling_PCB.png" width="250"> |
+| <img src="assets/images/pcb/ss_beforetoolpathed_PCB.png" width="250"> | <img src="assets/images/pcb/ss-pocketPCB.png" width="250"> | <img src="assets/images/pcb/ss-drilling_PCB.png" width="250"> |
 
 ---
 
 Below is what the toolpath looks like in MakeraCAM before milling:
 
-<img src="https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/images/pcb/ss_toolpathPCB.png" width="300">
+<img src="assets/images/pcb/ss_toolpathPCB.png" width="300">
 
 ---
 
@@ -61,7 +61,7 @@ Below is what the toolpath looks like in MakeraCAM before milling:
 
 After setting up the design, we placed the copper board on the CNC bed and ran the job. It milled all the traces and drilled the holes automatically.
 
-<img src="https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/images/pcb/ss_completedPCB.png" width="300">
+<img src="assets/images/pcb/ss_completedPCB.png" width="300">
 
 ---
 
@@ -78,7 +78,7 @@ After setting up the design, we placed the copper board on the CNC bed and ran t
 - It did take me a few tries to learn how to run the software and set up the board (which screws to unscrew)
 
 ### Important Decisions 
-1. I followed the workflow very carefully to ensure that I did not miss a step (this allowed me to follow a checklist and work efficiently so that I did not need to backtrack.
+1. I followed the workflow very carefully to ensure that I did not miss a step (this allowed me to follow a checklist and work efficiently so that I did not need to backtrack).
 2. I worked with a partner while running it (this allowed me to have help on my first time and then repeat it again with her, giving me practice and experience with the machine)
 3. I redid the toolpath by myself after we ran through it with Mr. Dubick to make sure that I knew how to select different sections and pick whether to pocket or drill. 
 
