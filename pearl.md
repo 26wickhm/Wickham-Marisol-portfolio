@@ -88,6 +88,8 @@ Donning Tubes are a tool to put on compression socks.  This is important for amp
 [View on GitHub](assets/files/donningtube/Donning%20Tube%20(parametric%20%2B%20handles).stl)  
 [Direct Download (STL)](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/files/donningtube/Donning%20Tube%20(parametric%20%2B%20handles).stl)
 
+![donningtube.parametrics.png](https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/images/donning%20tube/donningtube.parametrics.png)
+
 There are two variables in this design. Every single dimension is centered around the diameter of the design except for the height. I decided to do this because I wanted to be able to adjust the height is a patient needed a longer or shorter body. The default settings on this is a diameter of 12 inches and a height of 9 inches. 
 
 ## Modeling Steps 
@@ -138,6 +140,19 @@ All dimensions are defined **relative to the diameter**.
 
 - **Bottom & sides of handles**: `0.020833 × D`
 - **Top of handles**: `0.075 × D`
+
+---
+
+## Final Design Views
+
+| Bottom View | Home View |
+| --- | --- |
+| ![Bottom View](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/donning%20tube/donningtubefinal(bottomview).png) | ![Home View](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/donning%20tube/donningtubefinal(homeview).png) |
+
+| Side View | Top View |
+| --- | --- |
+| ![Side View](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/donning%20tube/donningtubefinal(homeview).png) | ![Top View](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/donning%20tube/donningtubefinal(topview).png) |
+
 
 
 
