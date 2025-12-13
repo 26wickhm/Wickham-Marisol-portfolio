@@ -85,7 +85,7 @@ Donning Tubes are a tool to put on compression socks.  This is important for amp
 | ![Step 1](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/donning%20tube/donningtube(step1).png) | ![Step 2](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/donning%20tube/donningtube(step2).png) | ![Step 3](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/donning%20tube/donningtube(step3).png) | ![Final](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/donning%20tube/donningtubefinal(homeview).png) |
 
 ## Dimensions as a Parametric File (in inches) 
-[View on GitHub](assets/files/donningtube/Donning%20Tube%20(parametric%20%2B%20handles).stl)  
+[View on GitHub](https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/files/donningtube/Donning%20Tube%20(parametric%20%2B%20handles).stl)  
 [Direct Download (STL)](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/files/donningtube/Donning%20Tube%20(parametric%20%2B%20handles).stl)
 
 ![Donning Tube – Parametrics](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/donning%20tube/donningtube.parametrics.png)
