@@ -153,6 +153,9 @@ All dimensions are defined **relative to the diameter**.
 | --- | --- |
 | ![Side View](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/donning%20tube/donningtubefinal(homeview).png) | ![Top View](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/donning%20tube/donningtubefinal(topview).png) |
 
+### Documentation
+#### To read through my day to day documentation, go to the documentation page. This does not only involve documentation on the Pearl project, but more of a recording of each day regardless of what I am working on. 
+
 
 
 
