@@ -77,4 +77,7 @@ This includes organizing schedules, creating structured training groups by exper
 
 Donning Tubes are a tool to put on compression socks.  This is important for amputee patients because the end of the limb needs to be molded after surgery. The compression sock (shrinker) is loaded onto the tube and then slid onto the limb. This reduced friction on the limb as well as ensuring that thre sock is taught and does not have bunches of fabric. 
 
+**FINAL PRODUCT**
+![donningtube(step1).png](
+
 
