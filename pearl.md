@@ -46,7 +46,7 @@ I am working with **Pearl (Atrium Hospital Rehabilitation Center)** with three o
 | 18            | Book Holder                   | Fidgets                      |
 | 19            | Nail Polish Holder            | Pant Clips                   |
 
-> ⚙️ *Currently, only the Donning Tube project is fully documented. Additional projects will be added later.*
+>  *Currently, only the Donning Tube project is fully documented. Additional projects will be added later.*
 
 ---
 
@@ -77,12 +77,19 @@ This includes organizing schedules, creating structured training groups by exper
 
 Donning Tubes are a tool to put on compression socks.  This is important for amputee patients because the end of the limb needs to be molded after surgery. The compression sock (shrinker) is loaded onto the tube and then slid onto the limb. This reduced friction on the limb as well as ensuring that thre sock is taught and does not have bunches of fabric. 
 
-STEPS
-![donningtube(step1).png](https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/images/donning%20tube/donningtube(step1).png)
+## STEPS IN IMAGES
+  ### below shows the broad progression of the donning tube in Fusion360
 
-![donningtube(step2).png](https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/images/donning%20tube/donningtube(step2).png)
+| Step 1 | Step 2 | Step 3 | Final |
+| --- | --- | --- | --- |
+| ![Step 1](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/donning%20tube/donningtube(step1).png) | ![Step 2](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/donning%20tube/donningtube(step2).png) | ![Step 3](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/donning%20tube/donningtube(step3).png) | ![Final](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/donning%20tube/donningtubefinal(homeview).png) |
 
-![donningtube(step3).png](https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/images/donning%20tube/donningtube(step2).png)
+Dimensions as a Parametric File 
+
+
+
+
+
 
 
 
