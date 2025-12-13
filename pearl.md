@@ -85,8 +85,8 @@ Donning Tubes are a tool to put on compression socks.  This is important for amp
 | ![Step 1](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/donning%20tube/donningtube(step1).png) | ![Step 2](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/donning%20tube/donningtube(step2).png) | ![Step 3](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/donning%20tube/donningtube(step3).png) | ![Final](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/donning%20tube/donningtubefinal(homeview).png) |
 
 ## Dimensions as a Parametric File (in inches) 
-[📄 View on GitHub](assets/files/donningtube/donning_tube_parametric_handles.stl)  
-[⬇️ Direct Download (STL)](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/files/donningtube/donning_tube_parametric_handles.stl)
+[📄 View on GitHub](assets/files/donningtube/Donning%20Tube%20(parametric%20%2B%20handles).stl)  
+[⬇️ Direct Download (STL)](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/files/donningtube/Donning%20Tube%20(parametric%20%2B%20handles).stl)
 
 
 There are two variables in this design. Every single dimension is centered around the diameter of the design except for the height. I decided to do this because I wanted to be able to adjust the height is a patient needed a longer or shorter body. The default settings on this is a diameter of 12 inches and a height of 9 inches. 
