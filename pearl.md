@@ -155,9 +155,7 @@ All dimensions are defined **relative to the diameter**.
 
 ### Documentation
 #### To read through my day to day documentation, go to the documentation page. This does not only involve documentation on the Pearl project, but more of a recording of each day regardless of what I am working on. 
-
-
-
+[Documentation](documentation.md)
 
 
 
