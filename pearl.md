@@ -91,9 +91,8 @@ There are two variables in this design. Every single dimension is centered aroun
 
 ## Modeling Steps (Parametric)
 
-![Model Preview](assets/images/donning_tube_preview.png)
+[⬇️ Download STL](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/files/donningtube/donning_tube_parametric_handles.stl)
 
-[⬇️ Download STL](assets/files/donningtube/Donning%20Tube%20(parametric%20%2B%20handles).stl)
 
 All dimensions are defined **relative to the diameter**.
 
