@@ -84,8 +84,63 @@ Donning Tubes are a tool to put on compression socks.  This is important for amp
 | --- | --- | --- | --- |
 | ![Step 1](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/donning%20tube/donningtube(step1).png) | ![Step 2](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/donning%20tube/donningtube(step2).png) | ![Step 3](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/donning%20tube/donningtube(step3).png) | ![Final](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/donning%20tube/donningtubefinal(homeview).png) |
 
-Dimensions as a Parametric File 
+## Dimensions as a Parametric File (in inches) 
+![donningtube.parametrics.png](https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/images/donning%20tube/donningtube.parametrics.png)
 
+There are two variables in this design. Every single dimension is centered around the diameter of the design except for the height. I decided to do this because I wanted to be able to adjust the height is a patient needed a longer or shorter body. The default settings on this is a diameter of 12 inches and a height of 9 inches. 
+
+## Modeling Steps (Parametric)
+
+![Model Preview](assets/images/donning_tube_preview.png)
+
+[⬇️ Download STL](assets/files/donningtube/Donning%20Tube%20(parametric%20%2B%20handles).stl)
+
+All dimensions are defined **relative to the diameter**.
+
+---
+
+### 1. Base Cylinder
+
+- **Diameter**: `D`
+- **Width (wall thickness)**: `D + 0`
+- **Height**: `H`
+
+**Steps**
+1. Sketch a circle with diameter `D`
+2. Offset the circle to define wall thickness
+3. Extrude upward by height `H`
+
+---
+
+### 2. Handles
+
+- **Handle width**: `0.1667 × D`
+- **Handle length**: `1.91667 × D`
+- **Handle height**: `0.1667 × D`
+
+**Steps**
+1. Sketch handle profile
+2. Extrude handles upward by `0.1667 × D`
+
+---
+
+### 3. Cutout for Handle Bar
+
+- **Offset plane**: `H + 3`
+- **Cutout diameter**: `D`
+- **Cut depth**: `H + 3`
+
+**Steps**
+1. Create an offset plane at `H + 3`
+2. Sketch a circle with diameter `D`
+3. Extrude cut through the body
+
+---
+
+### 4. Fillets
+
+- **Bottom & sides of handles**: `0.020833 × D`
+- **Top of handles**: `0.075 × D`
 
 
 
