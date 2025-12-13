@@ -80,7 +80,7 @@ Donning Tubes are a tool to put on compression socks.  This is important for amp
 STEPS
 ![donningtube(step1).png](https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/images/donning%20tube/donningtube(step1).png)
 
-![donningtube(step2).png](
+![donningtube(step2).png](https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/images/donning%20tube/donningtube(step2).png)
 
 ![donningtube(step3).png]{
 
