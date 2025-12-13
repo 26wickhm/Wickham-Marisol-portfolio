@@ -82,7 +82,7 @@ STEPS
 
 ![donningtube(step2).png](https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/images/donning%20tube/donningtube(step2).png)
 
-![donningtube(step3).png]{
+![donningtube(step3).png](https://github.com/26wickhm/Wickham-Marisol-portfolio/blob/main/assets/images/donning%20tube/donningtube(step2).png)
 
 
 
