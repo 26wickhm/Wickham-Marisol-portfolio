@@ -155,7 +155,35 @@ All dimensions are defined **relative to the diameter**.
 | ![Side View](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/donning%20tube/donningtubefinal(homeview).png) | ![Top View](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/donning%20tube/donningtubefinal(topview).png) |
 
 **[Documentation](documentation.md)**
-To read through my day to day documentation, go to the documentation page. This does not only involve documentation on the Pearl project, but more of a recording of each day regardless of what I am working on. 
+To read through my day to day documentation, go to the documentation page. This does not only involve documentation on the Pearl project, but more of a recording of each day regardless of what I am working on. Below is what I extracted from my overall documentation to give only information about this project.
+
+**10/06/25**
+Today we began designing the donning tubes. I made the design for the donning tube, but everyone else had input on dimensions. Our plan is to have 2 variations each with three possible sizes to ensure that the donning tubes can reach a wider group of patients. There will be short or long donning tubes that come in small, medium, and large sizes.
+
+**10/07/25**
+Today I completed my 5 versions of the donning tubes and uploaded screenshots to the Git. I will add my designs to the shared drive with the hospital and will print next class.
+
+**10/08/25**
+I printed out the medium handles donning tube and had to scale it down to 70% to be able to fit on the printer because the design is too big for the plate.
+
+**11/5/25**
+Today I learned how to create parametric designs in Fusion 360. I learned this for the main intention of adapting my donning tube. This is because while there can be generic sizes (small, medium, large), it is much more effective to use variables to define dimensions such as length, width, diameter, filleting, etc. I deleted the 5 versions of the files I had and created two instead. Both are parametric; one has handles and one does not.
+
+**11/11/25**
+The feedback I received about the donning tube is that parametric is a very smart way to keep the design, the tube can be one diameter instead of cone-like, and that there is a slight problem with the handle. While she did enjoy the concept, sometimes they put the sock over the opposite end of the tube to secure it while they roll it on. After discussion, I realized that we can keep the handles if I can create a ledge above them for the sock to hold on to.
+
+**11/12/25 – 11/13/25**
+On these two days I worked to make my  design better with the changes that Heather Smith advised. To do this, I added a hollowed out triangle revolving around the cylinder right above the handle to create a place for the compression sock to hook around. However, there are a few challenges with this. For one, I had to abandon the parametric design for now because I was back in the designing stage. The second issue is that I cannot tell if the hook will have enough space under it for the sock without printing a whole new donning tube. They take around 7 hours to print and take a lot of PLA, so I try to refrain from doing so until necessary.
+
+**12/10/25**
+Today we went in person to visit Atrium Rehabilitation Center and meet with Heather Smith regarding our designs. I brought my donning tube (with generic sizing of a diameter of 12 inches and a height of 9 inches). Heather was initially concerned about the handles getting in the way of the sock, but after consideration, she decided that it did not and was actually a great design idea. This means that I reverted my Fusion file to the original design without the section to hold the sock in place.The donning tube was left with her and will be implemented on the next amputee patient who needs it.
+
+**12/10/25**
+Today I went back and made the final donning tube design parametric. Before, I had many variables, but I decided that I only wanted to have 2. I made every single dimension dependent on the diameter (except for the height). I wanted the height to be separate because there may be a need for a longer or shorter body regardless of the width. This included every offset, fillet, and extrusion being an equation revolving around the variable `diameter`.
+
+**12/11/25**
+I also completed my Git page for the donning tube. The only thing I may have to do is copy and paste certain documentation over to it so that someone does not need to read through all of my documentation if they only want the parts about the donning tube.
+
 
 
 
