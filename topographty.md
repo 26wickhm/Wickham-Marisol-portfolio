@@ -23,7 +23,6 @@ For this project, we utilized the MakeraCam machine to engrave topography maps i
 5. Import 3D Model
 - Go to the modeling tab
 - Click "Import a Component or 3D Model" and select your STL file
-#### Orient 3D Model 
 6. Orient 3D Model (Imported 3D Model > Transform)
 - Rotation abouty Z axis: 0 degrees
 - Unclick "lock XYZ ratio"
@@ -57,7 +56,7 @@ For this project, we utilized the MakeraCam machine to engrave topography maps i
      - Machine Limit Boundaries: Selected Vectors
      - Strategy: Raster, with a 0 degree input
      - Name the Toolpath --> Calculate
-    - 2D Profile Toolpath Generation
+  - 2D Profile Toolpath Generation
       - Boundary: Select the rectangular boundary
       - Toolpath: 2D Roughing Toolpath
       - Start Depth: 0
@@ -67,8 +66,11 @@ For this project, we utilized the MakeraCam machine to engrave topography maps i
       - Machine Vectors: Select "On" and Direction "Climb"
       - Seperate Last Pass: leave unchecked
       - Name the Toolpath --> Calculate
-    12. Preview all Toolpaths
+  12. Preview all Toolpaths
         - save the G-code by clicking the Save Toolpath button
         - Machine: Carvera Desktop CNC machine
-      
-
+  #### MakeraCam
+  13. After saving the toolpath to the Drive, download and import in on the PC next to the MakeraCam Machine
+  - Upload the gcode after uploading the file
+  - Offset (6,6) to allow for the wood to be cut in the middle
+  - Run the gcode
