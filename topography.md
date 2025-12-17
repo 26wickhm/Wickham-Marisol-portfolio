@@ -75,3 +75,10 @@ _This workflow is inspired by one that Tom Dubick created_
   - Upload the gcode after uploading the file
   - Offset (6,6) to allow for the wood to be cut in the middle
   - Run the gcode
+ 
+ #### FILES
+ [marisol_new_breck_toolpath (1).cnc](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/files/topography/marisol_new_breck_toolpath%20(1).cnc)
+ 
+ [Aspire.crv3d](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/files/topography/Aspire.crv3d)
+
+
