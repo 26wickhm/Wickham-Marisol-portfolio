@@ -25,6 +25,50 @@ For this project, we utilized the MakeraCam machine to engrave topography maps i
 - Click "Import a Component or 3D Model" and select your STL file
 #### Orient 3D Model 
 6. Orient 3D Model (Imported 3D Model > Transform)
-- Rotation abouty Z axis: 0 degrees 
-
+- Rotation abouty Z axis: 0 degrees
+- Unclick "lock XYZ ratio"
+  - z = 1, x = 2.5, y = 3.5
+  - Click apply and center model
+  - Leave "Apply Perspective Along Z" unchecked
+- Position and Import
+7. Use Depth Below to ensure that it is equal to the Z's height size
+- click import while on  Position Relative to the Modeling Plane
+8. On the Component tab --> Component Properties
+- Shape Height: 1.0
+- Base Height: 0.25
+- "Close"
+9. Design tab --> 2D view
+- click "Center" under the Alignment Tool
+10. Design tab --> Create Vectors
+- Draw rectangle around design (in this case, x = 2.5, y = 3.5)
+  _need to do this to trim around the final product_
+11. Toolpaths Tab
+  - In the 2D view, click on the 3D model image
+  - Click 3D roughing toolpath
+    - Material: Hardwood
+    - Tool: Large 25 mm End Flute Mill (Also known as a 1/8 End Mill)
+    - Machine Limit Boundaries: Selected Vectors
+    - Machining Allowance: 0.024
+    - Strategy: 3D Raster
+    - Name the Toolpath --> Calculate
+   - 3D Finishing Toolpath
+     - Material: Hardwood
+     - Tool: 1/8 Ball Nose
+     - Machine Limit Boundaries: Selected Vectors
+     - Strategy: Raster, with a 0 degree input
+     - Name the Toolpath --> Calculate
+    - 2D Profile Toolpath Generation
+      - Boundary: Select the rectangular boundary
+      - Toolpath: 2D Roughing Toolpath
+      - Start Depth: 0
+      - Cut Depth: 0.5
+      - Material: Hardwood
+      - Tool: 1/8 End Mill
+      - Machine Vectors: Select "On" and Direction "Climb"
+      - Seperate Last Pass: leave unchecked
+      - Name the Toolpath --> Calculate
+    12. Preview all Toolpaths
+        - save the G-code by clicking the Save Toolpath button
+        - Machine: Carvera Desktop CNC machine
+      
 
