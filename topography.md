@@ -3,8 +3,9 @@
 [← Back to Main Page](README.md)
 
 For this project, we utilized the MakeraCam machine to engrave topography maps into wood. I chose to do Breckendridge. 
-
-### Workflow 
+---
+_This workflow is inspired by one that Tom Dubick created_
+## Workflow 
 ---
 #### Terrain2STL (https://jthatch.com/Terrain2STL/)
 1. Find location and define model area by creating a red box around the georgraphy wanted
