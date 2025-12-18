@@ -81,4 +81,9 @@ _This workflow is inspired by one that Tom Dubick created_
  
  [Aspire.crv3d](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/files/topography/Aspire.crv3d)
 
+#### CHALLENGES
+A struggle that I encountered was with the exportation of the Aspire files and loading them onto the machine. This was because I continued to export the gcodes and the file would be empty when I moved to the PC connected to the MakeraCam. This was because I was not exporting it as a cnc. I had tried multiple times as a .nc, but once I saved it as a .cnc, it uploaded very easily and all I had to do was home and offset the machine. 
+
+### SUMMARY 
+I think that the most important thing that I learned during this project is how to create the toolpath and navigate Aspire. I had to restart multiple times because of confusion, so I learned the process well and could do it without a workflow. If I were to change something, I think that I would make my zone more focused on the mountain range, and create more of a difference in the height. This would have added to the steepness of the mountain and pointed out each individual peak. In the future, I plan to stain this wood and mount it atop mulitple pieces of 1/8 inch wood. They will create a base slightly larger than the mountain. I will then engrave Breckenridge, Colorado on it and gift it to my parents. 
 
