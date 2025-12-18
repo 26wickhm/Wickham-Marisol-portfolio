@@ -2,7 +2,11 @@
 
 [← Back to Main Page](README.md)
 
-For this project, we utilized the MakeraCam machine to engrave topography maps into wood. I chose to do Breckendridge. 
+#### For this project, we utilized the MakeraCam machine to engrave topography maps into wood. I chose to do Breckendridge, Colorado. 
+ #### FILES
+ [marisol_new_breck_toolpath (1).cnc](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/files/topography/marisol_new_breck_toolpath%20(1).cnc)
+ 
+ [Aspire.crv3d](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/files/topography/Aspire.crv3d)
 ---
 _This workflow is inspired by one that Tom Dubick created_
 ## Workflow 
@@ -75,11 +79,6 @@ _This workflow is inspired by one that Tom Dubick created_
   - Upload the gcode after uploading the file
   - Offset (6,6) to allow for the wood to be cut in the middle
   - Run the gcode
- 
- #### FILES
- [marisol_new_breck_toolpath (1).cnc](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/files/topography/marisol_new_breck_toolpath%20(1).cnc)
- 
- [Aspire.crv3d](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/files/topography/Aspire.crv3d)
 
 #### CHALLENGES
 A struggle that I encountered was with the exportation of the Aspire files and loading them onto the machine. This was because I continued to export the gcodes and the file would be empty when I moved to the PC connected to the MakeraCam. This was because I was not exporting it as a cnc. I had tried multiple times as a .nc, but once I saved it as a .cnc, it uploaded very easily and all I had to do was home and offset the machine. 
