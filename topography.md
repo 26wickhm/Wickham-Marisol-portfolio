@@ -86,6 +86,13 @@ _This workflow is inspired by one that Tom Dubick created_
   - Upload the gcode after uploading the file
   - Offset (6,6) to allow for the wood to be cut in the middle
   - Run the gcode
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/topography/makeracam_ss_beforemill.png" width="38%" />
+  <img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/topography/toolpath.ss.beforeMakeraCam.png" width="38%" />
+</p>
+
+
+
 
 #### CHALLENGES
 A struggle that I encountered was with the exportation of the Aspire files and loading them onto the machine. This was because I continued to export the gcodes and the file would be empty when I moved to the PC connected to the MakeraCam. This was because I was not exporting it as a cnc. I had tried multiple times as a .nc, but once I saved it as a .cnc, it uploaded very easily and all I had to do was home and offset the machine. 
