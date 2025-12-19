@@ -10,7 +10,7 @@
 
 #### For this project, we utilized the MakeraCam machine to engrave topography maps into wood. I chose to do Breckendridge, Colorado. 
 ### FILES
-[Download CNC Toolpath](https://github.com/26wickhm/Wickham-Marisol-portfolio/releases/download/v1.0/marisol_new_breck_toolpath.cnc)
+[Download CNC Toolpath](https://github.com/26wickhm/Wickham-Marisol-portfolio/raw/main/assets/files/topography/breck_toolpath.zip)
 
 [Download Aspire File (.crv3d)](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/files/topography/Aspire.crv3d)
 
