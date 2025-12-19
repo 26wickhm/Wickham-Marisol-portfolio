@@ -4,7 +4,8 @@
 
 | | |
 |---|---|
-| ![](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/topography/IMG_3128.jpg) | ![](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/topography/IMG_3129.jpg) |
+| ![](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/topography/finaltopo(1).jpg) | ![](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/topography/finaltopo(2).jpg) |
+|
 
 
 #### For this project, we utilized the MakeraCam machine to engrave topography maps into wood. I chose to do Breckendridge, Colorado. 
