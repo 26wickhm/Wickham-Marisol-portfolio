@@ -2,6 +2,11 @@
 
 [← Back to Main Page](README.md)
 
+| | |
+|---|---|
+| ![](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/topography/IMG_3128.jpg) | ![](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/topography/IMG_3129.jpg) |
+
+
 #### For this project, we utilized the MakeraCam machine to engrave topography maps into wood. I chose to do Breckendridge, Colorado. 
  #### FILES
 [Download CNC Toolpath](https://github.com/26wickhm/Wickham-Marisol-portfolio/raw/main/assets/files/topography/marisol_new_breck_toolpath%20(1).cnc)
