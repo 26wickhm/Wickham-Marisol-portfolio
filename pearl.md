@@ -154,6 +154,9 @@ All dimensions are defined **relative to the diameter**.
 | --- | --- |
 | ![Side View](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/donning%20tube/donningtubefinal(homeview).png) | ![Top View](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/donning%20tube/donningtubefinal(topview).png) |
 
+**Summary**
+This project was very eye opening to me because it did not involve fancy electronics and the design does not look very difficult. However, working with Atrium has allowed me to see that the most important work sometimes is the "easy" things that not everyone has access to. This is why it was so rewarding to create a design that focused on making it easier, more cost efficient, and customizable. I also learned how to do parametrics in Fusion360, which I will continue to expand upon and advance my confidence in. In the future, I hope that this design becomes more mainspread and amputtee patients that need it can simply send the diameter of their limb and the preffered height (standard, long, short) and it can be quickly modified and produced. Of course, if more people utilize the donning tube, then I would be excited to hear feedback and adjust the file accordingly to accomadate or address an issue that I earlier missed. 
+
 **[Documentation](documentation.md)**
 To read through my day to day documentation, go to the documentation page. This does not only involve documentation on the Pearl project, but more of a recording of each day regardless of what I am working on. Below is what I extracted from my overall documentation to give only information about this project.
 
