@@ -148,9 +148,6 @@ All dimensions are defined **relative to the diameter**.
 - **Top of handles**: `0.075 × D`
 
 ---
-
-**Handtools**: There were no handtools used in this project. The only thing that one would use would be a sander, but adapting the fillets in the design would make this much better. 
----
 ## Final Design Views
 
 | Bottom View | Home View |
@@ -160,6 +157,7 @@ All dimensions are defined **relative to the diameter**.
 | Side View | Top View |
 | --- | --- |
 | ![Side View](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/donning%20tube/donningtubefinal(homeview).png) | ![Top View](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/donning%20tube/donningtubefinal(topview).png) |
+_There were no handtools used in this project. The only thing that one would use would be a sander, but adapting the fillets in the design would make this much better._
 
 **Summary**
 This project was very eye opening to me because it did not involve fancy electronics and the design does not look very difficult. However, working with Atrium has allowed me to see that the most important work sometimes is the "easy" things that not everyone has access to. This is why it was so rewarding to create a design that focused on making it easier, more cost efficient, and customizable. I also learned how to do parametrics in Fusion360, which I will continue to expand upon and advance my confidence in. In the future, I hope that this design becomes more mainspread and amputtee patients that need it can simply send the diameter of their limb and the preffered height (standard, long, short) and it can be quickly modified and produced. Of course, if more people utilize the donning tube, then I would be excited to hear feedback and adjust the file accordingly to accomadate or address an issue that I earlier missed. 
