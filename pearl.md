@@ -148,8 +148,8 @@ All dimensions are defined **relative to the diameter**.
 - **Top of handles**: `0.075 × D`
 
 ---
-## Handtools
-There were no handtools used in this project. The only thing that one would use would be a sander, but adapting the fillets in the design would make this much better. 
+
+**Handtools**: There were no handtools used in this project. The only thing that one would use would be a sander, but adapting the fillets in the design would make this much better. 
 ---
 ## Final Design Views
 
