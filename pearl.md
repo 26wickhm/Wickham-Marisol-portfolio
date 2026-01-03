@@ -78,9 +78,9 @@ This includes organizing schedules, creating structured training groups by exper
 Donning Tubes are a tool to put on compression socks.  This is important for amputee patients because the end of the limb needs to be molded after surgery. The compression sock (shrinker) is loaded onto the tube and then slid onto the limb. This reduced friction on the limb as well as ensuring that thre sock is taught and does not have bunches of fabric. I did not use a specific rference as inspiration for this project. Instead, I consulted with Heather Smith about what the object of a donning tube was, if it needed to be in a cone shape, etc. From there, I simply built a cylinder with handles that looked somewhat like the images that I found online. However, the majority of online images look very different than mine, which is what I believe makes mine different and easier to use. 
 
 ## Cost
-Average weight:760 grams 
-Average cost: $30
-- however, since this device is easily changed based on diameter and height, the price will change as well
+- Average weight:760 grams 
+- Average cost: $30
+  - however, since this device is easily changed based on diameter and height, the price will change as well
 
 ## STEPS IN IMAGES
   ### below shows the broad progression of the donning tube in Fusion360
