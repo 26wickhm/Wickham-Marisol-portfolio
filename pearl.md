@@ -157,6 +157,7 @@ All dimensions are defined **relative to the diameter**.
 | Side View | Top View |
 | --- | --- |
 | ![Side View](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/donning%20tube/donningtubefinal(homeview).png) | ![Top View](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/donning%20tube/donningtubefinal(topview).png) |
+
 _There were no handtools used in this project. The only thing that one would use would be a sander, but adapting the fillets in the design would make this much better._
 
 **Summary**
