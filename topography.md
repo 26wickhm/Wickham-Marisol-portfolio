@@ -18,6 +18,9 @@
 
 [Download Aspire File (.crv3d)](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/files/topography/Aspire.crv3d)
 
+[Download STL](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/files/topography/breckstl.stl)
+
+
 ---
 _This workflow is inspired by one that Tom Dubick created_
 ## Workflow 
