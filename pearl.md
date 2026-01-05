@@ -200,7 +200,7 @@ I also completed my Git page for the donning tube. The only thing I may have to 
   <summary><strong>📄 View Design Specification (PDF)</strong></summary>
 
   <iframe
-    src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/files/donningtube/Marisol%20Wickham%20-%20Design%20Specification%20Consideration%20Spring%202025%20(1).pdf"
+    src="/Wickham-Marisol-portfolio/assets/files/donningtube/Marisol%20Wickham%20-%20Design%20Specification%20Consideration%20Spring%202025%20(1).pdf"
     width="100%"
     height="900px"
     style="border: 1px solid #ccc; margin-top: 12px;"
