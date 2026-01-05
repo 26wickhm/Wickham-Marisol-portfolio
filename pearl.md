@@ -196,6 +196,9 @@ Today I went back and made the final donning tube design parametric. Before, I h
 **12/11/25**
 I also completed my Git page for the donning tube. The only thing I may have to do is copy and paste certain documentation over to it so that someone does not need to read through all of my documentation if they only want the parts about the donning tube.
 
+[📄 View Design Specification (PDF)](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/files/donningtube/Marisol%20Wickham%20-%20Design%20Specification%20Consideration%20Spring%202025%20(1).pdf)
+
+
 
 
 
