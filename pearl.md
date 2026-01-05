@@ -148,6 +148,17 @@ All dimensions are defined **relative to the diameter**.
 - **Top of handles**: `0.075 × D`
 
 ---
+
+## Materials 
+ 
+_Software_: Fusion360 and Bambu Studio
+ 
+_Machinery_: Bambu 3D printer
+
+**no handtools were used for this project
+
+---
+
 ## Final Design Views
 
 | Bottom View | Home View |
