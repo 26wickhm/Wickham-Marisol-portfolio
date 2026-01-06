@@ -24,7 +24,7 @@ I am working with **Pearl (Atrium Hospital Rehabilitation Center)** with three o
 
 ## Project List
 
-| **Project #** | **Necessity Level**           | **Complexity Level**         |
+| **Project ** | **Necessity Level**           | **Complexity Level**         |
 |:-------------:|-------------------------------|------------------------------|
 | 1             | Variety of cup holders        | Joystick toppers             |
 | 2             | Cathing mirror                | Sock Aid                     |
