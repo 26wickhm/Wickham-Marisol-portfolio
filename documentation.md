@@ -50,4 +50,9 @@ _Thanksgiving break from 11/22/25 to 11/30/25_
 
 **12/11/25** Today I documented all of the work that I have been doing all week and continued to fulfill my duties as Operation Lead. To do this, I responded to all emails pertaining to CAD design, letting advanced students know which projects are available and what conditions they need to be under. I also completed my Git page for the donning tube- the only thing I may have to do is copy and paste certain documentation over to it so that someone does not need to read through all of my documentation if they only want the parts about the donning tube. 
 
+---
+
+**1/6/26**
+Today is the first day of the second semester. This involved my planning for what I wanted to complete in this semester. Therefore, I researched the project list and decided which design I wanted to pursue next. I liked the idea of the tenodesis gripper because it is so expensive and combines CAD with function. I also spoke to my teacher about combining forces with a coder to create a website where orders can be placed from the hospital for designs with the dimensions and customizations necessary. This will make the process of manufacturing much simpler for both parties. I will continue to research for the tenodesis grabber and sketch some rough outlines tomorrow as well as looking at references and reviews on such. 
+
 
