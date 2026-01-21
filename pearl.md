@@ -6,9 +6,20 @@
 
 ## Table of Contents
 1. [Overview](#pearl-overview)
-2. [Project List](#pearl-project-list)
+2. [Project Pages](#pearl-project-pages)
 3. [Leadership Positions](#pearl-leadership)
-4. [Donning Tube](#donning-tube-section)
+
+<a name="pearl-project-pages"></a>
+
+## Project Pages
+
+Each project is fully documented on its own page for clarity, iteration tracking, and ease of navigation.
+
+- 🔗 **[Donning Tube](donning-tube.md)**  
+  Compression-sock application aid for amputee patients. Fully parametric, low-cost, and currently implemented at Atrium Rehabilitation Center.
+
+- 🔗 **[Self-Catheterization Aid](self-catheterization-aid.md)**  
+  Assistive device designed to support independent catheterization through improved positioning, stability, and accessibility.
 
 ---
 
