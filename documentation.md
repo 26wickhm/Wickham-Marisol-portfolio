@@ -76,4 +76,11 @@ We had a very long weekend due to weather. In these days I spent the majority of
 **2/6/26**
 I spent this class printing a small version of the fusion work I did yesterday. This is to test my threading and so that I can test how I want to lock the system without printing the large item. Along with this, I worked on documentation and GIT for the majority of class. I have been so engrossed with Atrium and CAD that I have not kept up with my documentation. I will continue to update the actual pages over this weekend and I also plan to design more screws to trap the threaded plank. 
 
+**2/9/26 - 2/12/26**
+These days were spent alternating between printing new sizes of donning of donning tubes. As of right now, G and F are complete. They do not have handles because the amputee specialist requested straight tubes first (this is what they have used in the past. While these are printing, I have been in CAD updating the self catheterization aid. This consists of cornfirming the threading and not extruding the cut all the way through the arch, this is so that the arch rests comfortably on the thigh. 
+
+**2/18/26** 
+I figured out the threading between the arch and plack. The next step is comofortability 
+
+
 
