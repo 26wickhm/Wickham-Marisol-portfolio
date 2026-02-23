@@ -80,7 +80,16 @@ I spent this class printing a small version of the fusion work I did yesterday. 
 These days were spent alternating between printing new sizes of donning of donning tubes. As of right now, G and F are complete. They do not have handles because the amputee specialist requested straight tubes first (this is what they have used in the past. While these are printing, I have been in CAD updating the self catheterization aid. This consists of cornfirming the threading and not extruding the cut all the way through the arch, this is so that the arch rests comfortably on the thigh. 
 
 **2/18/26** 
-I figured out the threading between the arch and plack. The next step is comofortability 
+I figured out the threading between the arch and plack. The next step is comofortability and discovering what sizes everything should be to optimize the size of the mirror while still being portable. 
+
+**2/19/26**
+Today I further altered the design of the self catheterization aid by increasing the amnount of material and reducing the hole and threading on the arch. This is because on the print from yesterday, I felt as though if I pushed harder with the plank, it could break through the arch. 
+
+**2/20/26**
+Today was the first successful print where all of the threading came together. This is a very big breakthrough because of multiple things. The first is that while it is adjustable, it is not easily knocked. This ensures that the patient can rotate the mirror for the best visibility but it will not be knocked around while the patient is inserting. The other benefits are that it is deconstructable and therefore more portable. The next step will be to add slits for a strap to go through around one of the thighs. I am also printing a whole new set because the supports on the bar messed up the threading a litte bit and I want a clean set to demonstrate. 
+
+**2/23/26** 
+Today I began to map out the parametrics for the self-cathing aid. This will be much more helpful when I determine the different sizes that people need, because it will allow me to print multiple different sizes without spending time on the design. This means that I can be more efficient and drop off multiple sizes for the doctors to experiment instead of the back and forth and trial and error. 
 
 
 
