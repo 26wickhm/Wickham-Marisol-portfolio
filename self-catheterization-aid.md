@@ -49,7 +49,7 @@ Largest causes of a need for self-catheterization:
   - Some psychiatric medication effects
  
 
-**This is all of the documentation specifically about the self catheterization aid. If wanting to see full documentation page about all of my work in this class, please click here. 
+**This is all of the documentation specifically about the self catheterization aid. If wanting to see full documentation page about all of my work in this class, please click here: **[Documentation](documentation.md)**
 ### Self-Catheterization Aid Development Log (Expanded)
 
 **12/1/25-12/5/25**  
