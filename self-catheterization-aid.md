@@ -47,7 +47,7 @@ My plan for this project was less structured, because I was much less familiar w
 
 [Direct Download (Threaded Bar STL)](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/files/catheteraid/bar%20for%20self%20catheterization%20aid%20with%20threading%20(~recovered).stl)
 
-[Open Design Specification PDF](https://26wickhm.github.io/Wickham-Marisol-portfolio/assets/files/catheteraid/design%20specification%20self%20catheterization%20aid.pdf)
+[Open Design Specification PDF](https://26wickhm.github.io/Wickham-Marisol-portfolio/assets/files/catheteraid/design%20specification%20self%20catheterization%20aid%20(1).pdf)
 
 ---
 
