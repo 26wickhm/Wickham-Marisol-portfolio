@@ -3,15 +3,21 @@
 [← Back to Pearl Project](pearl.md)  
 [← Back to Main Page](README.md)
 
-### Overview 
+---
+
+## Overview 
 
 A self catheterization aid is intended for those who need to self-catheterize at home. A person who requires this does it around 4-6 times a day. Many people, primarily women, struggle with insertion because of a lack of visuals and lighting. This is also difficult because many patients who need to self catheterize also do not have full mobility over their legs, struggling to hold them open. Therefore, my design aims to provide a leg brace for the patient (holding the legs apart), contain an adjustable mirror that they can move to increase visibility, and LED's lining the mirror for better lighting. 
 
-### Inspiration
+---
+
+## Inspiration
 
 I saw the need for this on the list that Ms. Heather Smith provided us, and after a zoom with a catheterization specialist and researching for a week, I realized the extent to which this was a necessity. It wasn't going to simply improve life for these people, but it could literally change the way thatt they get to live their life and the increased independence that they have. After looking online, there was no design that I truly resonated with, so my idea is completely from scratch. The only other input was from the self-catheterization specialist, suggesting that I add another arch because of the difficulty there is to keep the legs open. This is something that I never would have thought of, which is why it is so important to remember that the ultimate feedback you can get is from patients and people who work at the hospital. They will tell you not what is flashy, but what is needed. 
 
-### Cost
+---
+
+## Cost
 
 <div style="display:flex; align-items:flex-start; gap:25px;">
 
@@ -30,22 +36,33 @@ I saw the need for this on the list that Ms. Heather Smith provided us, and afte
 
 </div>
 
-### Project Management 
+---
+
+## Project Management 
+
 My plan for this project was less structured, because I was much less familiar with the topic, and knew that each time I researched I would be led in a different direction. However, my plan was roughly research, zoom with doctors, prototype, and adjustements until complete. As of right now, I am in the prototyping stage of this, but my timing is going accordingly to plan. This will continue past the school year and into the summer. I hope to have a usable prototype by the end of the school year, and continue improving it over the summer with the input of experienced self-catheterizers. 
 
-Tools: I used Fusion360 and Bambu Studios to design all of the CAD 
+**Tools**
 
-#### Files 
+- Fusion360
+- Bambu Studios
+
+---
+
+## Files 
 
 [Direct Download (Arch STL)](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/files/catheteraid/arch.stl)
 
 [Direct Download (Threaded Bar STL)](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/files/catheteraid/bar%20for%20self%20catheterization%20aid%20with%20threading%20(~recovered).stl)
 
+---
 
 ## Research
-Largest causes of a need for self-catheterization:
+
+### Largest causes of a need for self-catheterization
 
 **Neurogenic bladder**
+
 - effects both men and women
 - Caused by:
   - Spinal cord injury 
@@ -59,30 +76,59 @@ Largest causes of a need for self-catheterization:
 - Bladder emptying is impaired because nerve signals don't work properly 
 - Normally long term
 
-**Obstructory urinary retention** 
-- In men
-  - Benign prostatic hyperplasia 
-  - Prostate cancer 
-  - Post prostate surgery complications 
-  - Urethral strictures 
-- In women
-  - Pelvic organ prolapse
-  - Urethral strictures (rare)
-  - Post pelvic surgery obstruction 
+---
+
+**Obstructory urinary retention**
+
+**In men**
+
+- Benign prostatic hyperplasia 
+- Prostate cancer 
+- Post prostate surgery complications 
+- Urethral strictures 
+
+**In women**
+
+- Pelvic organ prolapse
+- Urethral strictures (rare)
+- Post pelvic surgery obstruction 
+
+---
 
 **Post-surgical urinary retention**
+
 - The bladder doesn’t empty properly after surgery due to anesthesia or nerve irritation
   - Pelvic surgery (gynecologic, colorectal)
   - Orthopedic surgery (hip, spine)
   - Urologic procedures
 
+---
+
 **Dysfunctional voiding / detrusor underactivity**
+
 - Bladder muscle is weak or uncoordinated.
   - Aging population
   - Idiopathic chronic retention
   - Long-standing bladder overdistension
   - Some psychiatric medication effects
- 
+
+---
+### Documentation 
+
+**This is all of the documentation specifically about the self catheterization aid. If wanting to see full documentation page about all of my work in this class, please click here:**  
+[Documentation](documentation.md)
+
+---
+
+**12/1/25-12/5/25**
+
+This whole week is combined documentation because we had a review week on electrical engineering. This included a lot of Tinkercad, where we simulated different circuits including some with LEDs, potentiometers, servos, and Arduinos (obviously with the necessary parts like buttons, resistors, wires, etc). This week was helpful because our projects have a required electronics component. While mine may not, the self-catheterization aid discussion later included LEDs for visibility, so this review reinforced foundational knowledge for possible mirror lighting integration.  
+
+---
+
+**1/7/26 - 1/14/26**
+
+Throughout these days, I have thoroughly been researching self-catheterization aids...
 
 **This is all of the documentation specifically about the self catheterization aid. If wanting to see full documentation page about all of my work in this class, please click here: **[Documentation](documentation.md)**
 ### Self-Catheterization Aid Development Log (Expanded)
