@@ -60,21 +60,15 @@ This project taught me alot. One of the things is that similar to my work with t
 
 ## Prototype Photos
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/self_catheterization_aid/IMG_2132.jpeg" width="340">
-<img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/self_catheterization_aid/IMG_2134%20(1).jpeg" width="340">
-
-</div>
+| | |
+|---|---|
+| <img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/self_catheterization_aid/IMG_2132.jpeg" width="320"> | <img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/self_catheterization_aid/IMG_2134%20(1).jpeg" width="320"> |
 
 <br>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/self_catheterization_aid/IMG_1403.jpeg" width="520">
-
-</div>
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/self_catheterization_aid/IMG_1403.jpeg" width="500">
+</p>
 ## Research
 
 ### Largest causes of a need for self-catheterization
