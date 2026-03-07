@@ -19,11 +19,9 @@ I saw the need for this on the list that Ms. Heather Smith provided us, and afte
 
 ## Cost
 
-<div style="display:flex; align-items:flex-start; gap:25px;">
-
-<img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/self_catheterization_aid/Screenshot%202026-03-07%20164129.png" width="350">
-
-<div>
+<p align="center">
+<img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/self_catheterization_aid/Screenshot%202026-03-07%20164129.png" width="420">
+</p>
 
 **Estimated cost breakdown for the self-catheterization aid components**
 
@@ -31,11 +29,6 @@ I saw the need for this on the list that Ms. Heather Smith provided us, and afte
 - The expense from the mirror and LEDs will be added once the PLA base size and comfortability are finalized.
 - Current prototype price: **$2.48**, not including additional components.
 - This section will be updated as each new component is included.
-
-</div>
-
-</div>
-
 ---
 
 ## Project Management 
