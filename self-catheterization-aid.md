@@ -16,7 +16,6 @@ A self catheterization aid is intended for those who need to self-catheterize at
 I saw the need for this on the list that Ms. Heather Smith provided us, and after a zoom with a catheterization specialist and researching for a week, I realized the extent to which this was a necessity. It wasn't going to simply improve life for these people, but it could literally change the way thatt they get to live their life and the increased independence that they have. After looking online, there was no design that I truly resonated with, so my idea is completely from scratch. The only other input was from the self-catheterization specialist, suggesting that I add another arch because of the difficulty there is to keep the legs open. This is something that I never would have thought of, which is why it is so important to remember that the ultimate feedback you can get is from patients and people who work at the hospital. They will tell you not what is flashy, but what is needed. 
 
 ---
-
 ## Cost
 
 <p align="center">
@@ -47,6 +46,8 @@ My plan for this project was less structured, because I was much less familiar w
 [Direct Download (Arch STL)](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/files/catheteraid/arch.stl)
 
 [Direct Download (Threaded Bar STL)](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/files/catheteraid/bar%20for%20self%20catheterization%20aid%20with%20threading%20(~recovered).stl)
+
+[Open Design Specification PDF](https://26wickhm.github.io/Wickham-Marisol-portfolio/assets/files/catheteraid/design%20specification%20self%20catheterization%20aid.pdf)
 
 ---
 
