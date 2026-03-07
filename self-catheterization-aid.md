@@ -131,21 +131,6 @@ This project taught me alot. One of the things is that similar to my work with t
 **This is all of the documentation specifically about the self catheterization aid. If wanting to see full documentation page about all of my work in this class, please click here:**  
 [Documentation](documentation.md)
 
----
-
-**12/1/25-12/5/25**
-
-This whole week is combined documentation because we had a review week on electrical engineering. This included a lot of Tinkercad, where we simulated different circuits including some with LEDs, potentiometers, servos, and Arduinos (obviously with the necessary parts like buttons, resistors, wires, etc). This week was helpful because our projects have a required electronics component. While mine may not, the self-catheterization aid discussion later included LEDs for visibility, so this review reinforced foundational knowledge for possible mirror lighting integration.  
-
----
-
-**1/7/26 - 1/14/26**
-
-Throughout these days, I have thoroughly been researching self-catheterization aids...
-
-**This is all of the documentation specifically about the self catheterization aid. If wanting to see full documentation page about all of my work in this class, please click here: **[Documentation](documentation.md)**
-### Self-Catheterization Aid Development Log (Expanded)
-
 **12/1/25-12/5/25**  
 This whole week is combined documentation because we had a review week on electrical engineering. This included a lot of Tinkercad, where we simulated different circuits including some with LEDs, potentiometers, servos, and Arduinos (obviously with the necessary parts like buttons, resistors, wires, etc). This week was helpful because our projects have a required electronics component. While mine may not, the self-catheterization aid discussion later included LEDs for visibility, so this review reinforced foundational knowledge for possible mirror lighting integration.  
 
