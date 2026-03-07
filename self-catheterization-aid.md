@@ -57,9 +57,17 @@ My plan for this project was less structured, because I was much less familiar w
 
 ---
 
+### Mistakes and Challenges 
+
+The largest mistake that I made was trying to make the difficulty very high before I even had a base to work off of. I began working on a hirth joint and different mechanisms to tighten before I realized that the solution was much more simple. I overcame this challenge by deciding to negate the complexities that I was worried about and instead began to just work off of my imagination and sketches. This resulted in a simple threading mechanism connecting the arches to the plank. It ended up having the desired effect of a stable mirror with the remained ability to rotate. This challenge results in me learning that I need to break my work into smaller steps instead of increasing the difficulty and making it more complex for myself. I have taken this mindset and continued to use it as I continue my project. 
+
+### Summary 
+
+This project taught me alot. One of the things is that similar to my work with the donning tube, I have understood more about the innerworkings of a hospital and patient need. Self Catheterization is not a subject that people want to discuss, which is why I capitalized on it. This internship is intended for the people who need help, and I am happy that I got to research. I also learned how to be professional, including going into Zooms with an intended meeting plan and coordinating emails with different specialists that I was put in contact with. This summary is not complete, as this project is still in the beginnings of work. I will update this at the end of each prototype.
+
 ## Research
 
-### Largest causes of a need for self-catheterization
+#### Largest causes of a need for self-catheterization
 
 **Neurogenic bladder**
 
