@@ -3,13 +3,16 @@
 [← Back to Pearl Project](pearl.md)  
 [← Back to Main Page](README.md)
 
-## Overview 
+### Overview 
 
 A self catheterization aid is intended for those who need to self-catheterize at home. A person who requires this does it around 4-6 times a day. Many people, primarily women, struggle with insertion because of a lack of visuals and lighting. This is also difficult because many patients who need to self catheterize also do not have full mobility over their legs, struggling to hold them open. Therefore, my design aims to provide a leg brace for the patient (holding the legs apart), contain an adjustable mirror that they can move to increase visibility, and LED's lining the mirror for better lighting. 
 
-## Inspiration
+### Inspiration
 
 I saw the need for this on the list that Ms. Heather Smith provided us, and after a zoom with a catheterization specialist and researching for a week, I realized the extent to which this was a necessity. It wasn't going to simply improve life for these people, but it could literally change the way thatt they get to live their life and the increased independence that they have. After looking online, there was no design that I truly resonated with, so my idea is completely from scratch. The only other input was from the self-catheterization specialist, suggesting that I add another arch because of the difficulty there is to keep the legs open. This is something that I never would have thought of, which is why it is so important to remember that the ultimate feedback you can get is from patients and people who work at the hospital. They will tell you not what is flashy, but what is needed. 
+
+### Cost 
+
 
 ## Research
 Largest causes of a need for self-catheterization:
