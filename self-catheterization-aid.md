@@ -190,8 +190,9 @@ I altered the design today to extrude the holes all the way through and printed 
 **2/26/26**  
 The things not included but were emailed designs and video demonstrations are my self-catheterization aid. I decided not to include it in the drop-off because a video is much more helpful to explain the concept, the deconstructability, and how it can toggle to adjust the mirror.  
 
-**2/28/26 - 2/29/26**  
-I need to completely build my self-catheterization page, review my documentation, and finalize presentation materials.
+**2/28/26 - 3/6/26**  
+This week has been in contact with Heather Smith. We had a meeting with her and she provided insight on each of our projects. As of right now, the video I sent her was VERY positively recieved and she seemed very pleased with the progress I had made. She also gave information on typical mirror size (around 4 inches in diameter) so that I can adapt my design accordingly. 
+
  
 
 
