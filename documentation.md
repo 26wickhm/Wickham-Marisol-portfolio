@@ -100,3 +100,8 @@ I made a drop-off to Atrium today. The bag contained Karlin's newest print of he
 
 **2/28/26 - 2/29/26**
 This weekend will be a lot of Git work for me. I need to update my donning tube page with the clarification of sizes, completely build my self-catheterization page, review my documentation, and finally make a slideshow to present on Thursday. This Thursday, our Capstone projects are due. Myself and the others working on Pearl are a bit of an exception because we are not done and will continue this work not only for the rest of the school year but throughout the summer as well. While our presentations may not look as glamorous as others, there is much more of a time delay to receive feedback, set Zoom and in-person meetings, and drop off prototypes. This message will need to be conveyed in the presentation.
+
+**2/28/26 - 3/6/26**  
+This week has been in contact with Heather Smith. We had a meeting with her and she provided insight on each of our projects. As of right now, the video I sent her was VERY positively recieved and she seemed very pleased with the progress I had made. She also gave information on typical mirror size (around 4 inches in diameter) so that I can adapt my design accordingly. Future design will inclufe an extruded cut for the mirror as well as extruded cuts for the LEDs to lie in. Ideally, there will be a cut through in the PLA for wires to be threaded through, increasing the look of professionalism. These updates to the plank will be made next week. I also continued to make sizes. I made J, and discussed the issues with diameter versus circumference with Ms. Heather Smith on the Zoom. Once sizes are confirmed, versions with both handles and no handles will be produced as an official set. 
+
+
