@@ -11,7 +11,33 @@ A self catheterization aid is intended for those who need to self-catheterize at
 
 I saw the need for this on the list that Ms. Heather Smith provided us, and after a zoom with a catheterization specialist and researching for a week, I realized the extent to which this was a necessity. It wasn't going to simply improve life for these people, but it could literally change the way thatt they get to live their life and the increased independence that they have. After looking online, there was no design that I truly resonated with, so my idea is completely from scratch. The only other input was from the self-catheterization specialist, suggesting that I add another arch because of the difficulty there is to keep the legs open. This is something that I never would have thought of, which is why it is so important to remember that the ultimate feedback you can get is from patients and people who work at the hospital. They will tell you not what is flashy, but what is needed. 
 
-### Cost 
+### Cost
+
+<div style="display:flex; align-items:flex-start; gap:25px;">
+
+<img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/self_catheterization_aid/Screenshot%202026-03-07%20164129.png" width="350">
+
+<div>
+
+**Estimated cost breakdown for the self-catheterization aid components**
+
+- This screenshot accounts for the cost of PLA in the first prototype (it will likely increase because the plank will need to be wider and thicker).
+- The expense from the mirror and LEDs will be added once the PLA base size and comfortability are finalized.
+- Current prototype price: **$2.48**, not including additional components.
+- This section will be updated as each new component is included.
+
+</div>
+
+</div>
+
+### Project Management 
+My plan for this project was less structured, because I was much less familiar with the topic, and knew that each time I researched I would be led in a different direction. However, my plan was roughly research, zoom with doctors, prototype, and adjustements until complete. As of right now, I am in the prototyping stage of this, but my timing is going accordingly to plan. This will continue past the school year and into the summer. I hope to have a usable prototype by the end of the school year, and continue improving it over the summer with the input of experienced self-catheterizers. 
+
+Tools: I used Fusion360 and Bambu Studios to design all of the CAD 
+
+#### Files 
+
+
 
 
 ## Research
