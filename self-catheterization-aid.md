@@ -65,9 +65,26 @@ The largest mistake that I made was trying to make the difficulty very high befo
 
 This project taught me alot. One of the things is that similar to my work with the donning tube, I have understood more about the innerworkings of a hospital and patient need. Self Catheterization is not a subject that people want to discuss, which is why I capitalized on it. This internship is intended for the people who need help, and I am happy that I got to research. I also learned how to be professional, including going into Zooms with an intended meeting plan and coordinating emails with different specialists that I was put in contact with. This summary is not complete, as this project is still in the beginnings of work. I will update this at the end of each prototype.
 
+## Prototype Photos
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/self_catheterization_aid/IMG_2132.jpeg" width="340">
+<img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/self_catheterization_aid/IMG_2134%20(1).jpeg" width="340">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/self_catheterization_aid/IMG_1403.jpeg" width="520">
+
+</div>
+
 ## Research
 
-#### Largest causes of a need for self-catheterization
+### Largest causes of a need for self-catheterization
 
 **Neurogenic bladder**
 
