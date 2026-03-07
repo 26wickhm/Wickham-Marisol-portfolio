@@ -191,7 +191,7 @@ I altered the design today to extrude the holes all the way through and printed 
 The things not included but were emailed designs and video demonstrations are my self-catheterization aid. I decided not to include it in the drop-off because a video is much more helpful to explain the concept, the deconstructability, and how it can toggle to adjust the mirror.  
 
 **2/28/26 - 3/6/26**  
-This week has been in contact with Heather Smith. We had a meeting with her and she provided insight on each of our projects. As of right now, the video I sent her was VERY positively recieved and she seemed very pleased with the progress I had made. She also gave information on typical mirror size (around 4 inches in diameter) so that I can adapt my design accordingly. 
+This week has been in contact with Heather Smith. We had a meeting with her and she provided insight on each of our projects. As of right now, the video I sent her was VERY positively recieved and she seemed very pleased with the progress I had made. She also gave information on typical mirror size (around 4 inches in diameter) so that I can adapt my design accordingly. Future design will inclufe an extruded cut for the mirror as well as extruded cuts for the LEDs to lie in. Ideally, there will be a cut through in the PLA for wires to be threaded through, increasing the look of professionalism. These updates to the plank will be made next week. 
 
  
 
