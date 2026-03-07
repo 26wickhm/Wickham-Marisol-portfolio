@@ -37,7 +37,9 @@ Tools: I used Fusion360 and Bambu Studios to design all of the CAD
 
 #### Files 
 
+[Direct Download (Arch STL)](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/files/catheteraid/arch.stl)
 
+[Direct Download (Threaded Bar STL)](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/files/catheteraid/bar%20for%20self%20catheterization%20aid%20with%20threading%20(~recovered).stl)
 
 
 ## Research
