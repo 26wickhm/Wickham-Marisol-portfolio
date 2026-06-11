@@ -110,4 +110,25 @@ Tonight was our senior engineering showcase. Every student got to have their cap
 **until 5/22/26**
 Until graduation, on the 22nd, I do not have class time to work on my project. I will continue to be on and off with the CAD portion, but for the majority our classtimes are lectures about AI. These ended up being very constructive because while it is important to understand the mechanisms behind what you are doing, whether it is code or CAD, it is also extremely helpful to utilize the tools you have with AI. With this, I learned how to link gemini to my gmail, docs, etc in order to extract important information for me instead of sifting through it on my own. I also learned the most efficient ways to ask a question or a task from a chatbot, including the persona of the chat ("you are an expert in _____"), who is writing it, the context, and ensuring it to ask questions until it is sure that it knows exactly what you want. In the future, I want to figure out how to use agentic coders in order to increase efficiency of what I am doing.
 
+**5/18/26** 
+I began my electronics today. I have all of the equipment and looked into how to wire it. I obviously have an idea of how electronics work but I have never used a boost converter so I consulted AI. This led me to the conclusion that the electronics should work a certain way, but when I finished soldering, the LEDs did not come on. I then noticed that the light on the boost converter had gone out, so I initially thought that I had fried the board. However, this did not make much sense because everything was equipped for 5v. My teacher came by and told me that instead of having the switch sdeperate from the LED's, it needed to be in the middle of the circuit. Obviously this makes sense (breaking the circuit when the switch goes off interupts the whole cycle). I decided to come back the next day to fix this. 
+
+**5/19/26** 
+I got my electronics working today! Instead of beginning on a new boost converter and battery, I snipped somne wires and solder suckered out the rest that were in the wrong place. Now, the wiring is like this: 
+
+  _Battery +_ ----> _BC +_
+  
+  _Battery -_ ----> _BC -_
+  
+  _BC 5v -_ ----> _Switch -_
+  
+  _BC 5v +_ ----> _LED +_
+  
+  _Switch + ----> _LED -_
+
+I noticed that when the switch is turned off, the light on the boost converter turns off multiple seconds later. This makes more sense why the light turned off yesterday when the power was broken. Something that I want to do in the future is add a screen or way in which the user can see when they need to charge the battery. If I continue on like this, the user would have to guess when it needed to be recharged. 
+
+**6/9/26**
+  
+
 
