@@ -16,6 +16,12 @@ A self catheterization aid is intended for those who need to self-catheterize at
 I saw the need for this on the list that Ms. Heather Smith provided us, and after a zoom with a catheterization specialist and researching for a week, I realized the extent to which this was a necessity. It wasn't going to simply improve life for these people, but it could literally change the way thatt they get to live their life and the increased independence that they have. After looking online, there was no design that I truly resonated with, so my idea is completely from scratch. The only other input was from the self-catheterization specialist, suggesting that I add another arch because of the difficulty there is to keep the legs open. This is something that I never would have thought of, which is why it is so important to remember that the ultimate feedback you can get is from patients and people who work at the hospital. They will tell you not what is flashy, but what is needed. 
 
 ---
+
+## Current Update (updated weekly) 
+# last update: June 11, 2026
+
+More of this can be seen in my documentation but as of right now, I am spending the summer working on this aid, I plan to give Heather Smith a prototype of just the frame (no electronics) by June 20th. Since the electronics are worked out for the most part, I am disregarding them until I verify the structuraL frame of the aid. This is because I want to verify sizing and comfortability before I adapt the plank in the middle to fit all of the electronics. I am doing the arches first because the plank is much more straightforward and will only have to be changed based on what size I decide to do the peg. 
+
 ## Cost
 
 <p align="center">
@@ -38,10 +44,12 @@ My plan for this project was less structured, because I was much less familiar w
 
 - Fusion360
 - Bambu Studios
-
+- Soldering machine 
 ---
 
-## Files 
+# Files 
+
+**These are the files that I used when trying to demonstrate the idea to the hospital. This was before I had information on mirror size and also sized everything down for quick prints and demonstration.**
 
 [Direct Download (Arch STL)](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/files/catheteraid/arch.stl)
 
@@ -49,17 +57,20 @@ My plan for this project was less structured, because I was much less familiar w
 
 [Open Design Specification PDF](https://26wickhm.github.io/Wickham-Marisol-portfolio/assets/files/catheteraid/design%20specification%20self%20catheterization%20aid%20(1).pdf)
 
+**June 9, 2026 Arc File**
+
+
 ---
 
-### Mistakes and Challenges 
+### Mistakes and Challenges (4/15/26)
 
 The largest mistake that I made was trying to make the difficulty very high before I even had a base to work off of. I began working on a hirth joint and different mechanisms to tighten before I realized that the solution was much more simple. I overcame this challenge by deciding to negate the complexities that I was worried about and instead began to just work off of my imagination and sketches. This resulted in a simple threading mechanism connecting the arches to the plank. It ended up having the desired effect of a stable mirror with the remained ability to rotate. This challenge results in me learning that I need to break my work into smaller steps instead of increasing the difficulty and making it more complex for myself. I have taken this mindset and continued to use it as I continue my project. 
 
-### Summary 
+### Summary (4/15/26)
 
 This project taught me alot. One of the things is that similar to my work with the donning tube, I have understood more about the innerworkings of a hospital and patient need. Self Catheterization is not a subject that people want to discuss, which is why I capitalized on it. This internship is intended for the people who need help, and I am happy that I got to research. I also learned how to be professional, including going into Zooms with an intended meeting plan and coordinating emails with different specialists that I was put in contact with. This summary is not complete, as this project is still in the beginnings of work. I will update this at the end of each prototype.
 
-## Prototype Photos
+## Prototype Photos of Sized Down Demonstration 
 
 | | |
 |---|---|
