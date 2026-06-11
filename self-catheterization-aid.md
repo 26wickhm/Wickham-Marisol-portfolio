@@ -58,6 +58,7 @@ My plan for this project was less structured, because I was much less familiar w
 [Open Design Specification PDF](https://26wickhm.github.io/Wickham-Marisol-portfolio/assets/files/catheteraid/design%20specification%20self%20catheterization%20aid%20(1).pdf)
 
 **June 9, 2026 Arc File**
+[Direct Download (Arch Test 3 STL)](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/files/self-catheterization%20aid/archtest3.stl)
 
 
 ---
