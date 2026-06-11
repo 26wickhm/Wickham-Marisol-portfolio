@@ -129,6 +129,9 @@ I got my electronics working today! Instead of beginning on a new boost converte
 I noticed that when the switch is turned off, the light on the boost converter turns off multiple seconds later. This makes more sense why the light turned off yesterday when the power was broken. Something that I want to do in the future is add a screen or way in which the user can see when they need to charge the battery. If I continue on like this, the user would have to guess when it needed to be recharged. 
 
 **6/9/26**
-  
+I had to restart my CAD arc because 1) somehow the measurements were completely off and were much much larger than I expected and 2) since it is not parametric, it is simply easier to make this design from scratch. I have also found the way to make it super quickly. This version has a radius of 6 cm with 135 degrees. I used a rectangle of 3x11 cm and used the sweep feature tracing the arc. I then filleted the edges of this 1cm to round everything out and added a 3cm hole extruded cut in about 1.8 cm and threaded (and modeled) this whole. I then added a 1 inch slit (around 3 cm) for the strap. There is a picture of it on my main page along with the file. I 3D printed it and will grab it tomorrow. I think that the slit will need to be moved lower down. 
+
+**6/10/26**
+Today we had a meeting with the incoming seniors that will take on the internship at Atrium. This included us and Mr. Dubick 
 
 
