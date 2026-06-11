@@ -198,6 +198,36 @@ The things not included but were emailed designs and video demonstrations are my
 **2/28/26 - 3/6/26**  
 This week has been in contact with Heather Smith. We had a meeting with her and she provided insight on each of our projects. As of right now, the video I sent her was VERY positively recieved and she seemed very pleased with the progress I had made. She also gave information on typical mirror size (around 4 inches in diameter) so that I can adapt my design accordingly. Future design will inclufe an extruded cut for the mirror as well as extruded cuts for the LEDs to lie in. Ideally, there will be a cut through in the PLA for wires to be threaded through, increasing the look of professionalism. These updates to the plank will be made next week. 
 
+**4/15/26**
+Tonight was our senior engineering showcase. Every student got to have their capstone project on display and the most influential were asked to speak infront of students, teachers, and parents. Therefore, since ours is an internship, we spoke about the important and mission statement of working with Atrium. Highlighting the fact that while our devices are not incrediby high tech, this is why they are so important. To work with the hospital on this, it is required to put your ego aside and focus on cost efficieny, increasing independence, and customizability for patients and nurses. This showcase was the deadline for other senior capstone projects and everyone was frantically trying to finish but since ours is going into the summer and being passed on, this was more of a checkpoint instead of finish line. 
+
+**until 5/22/26**
+Until graduation, on the 22nd, I do not have class time to work on my project. I will continue to be on and off with the CAD portion, but for the majority our classtimes are lectures about AI. These ended up being very constructive because while it is important to understand the mechanisms behind what you are doing, whether it is code or CAD, it is also extremely helpful to utilize the tools you have with AI. With this, I learned how to link gemini to my gmail, docs, etc in order to extract important information for me instead of sifting through it on my own. I also learned the most efficient ways to ask a question or a task from a chatbot, including the persona of the chat ("you are an expert in _____"), who is writing it, the context, and ensuring it to ask questions until it is sure that it knows exactly what you want. In the future, I want to figure out how to use agentic coders in order to increase efficiency of what I am doing.
+
+**5/18/26** 
+I began my electronics today. I have all of the equipment and looked into how to wire it. I obviously have an idea of how electronics work but I have never used a boost converter so I consulted AI. This led me to the conclusion that the electronics should work a certain way, but when I finished soldering, the LEDs did not come on. I then noticed that the light on the boost converter had gone out, so I initially thought that I had fried the board. However, this did not make much sense because everything was equipped for 5v. My teacher came by and told me that instead of having the switch sdeperate from the LED's, it needed to be in the middle of the circuit. Obviously this makes sense (breaking the circuit when the switch goes off interupts the whole cycle). I decided to come back the next day to fix this. 
+
+**5/19/26** 
+I got my electronics working today! Instead of beginning on a new boost converter and battery, I snipped somne wires and solder suckered out the rest that were in the wrong place. Now, the wiring is like this: 
+
+  _Battery +_ ----> _BC +_
+  
+  _Battery -_ ----> _BC -_
+  
+  _BC 5v -_ ----> _Switch -_
+  
+  _BC 5v +_ ----> _LED +_
+  
+  _Switch + ----> _LED -_
+
+I noticed that when the switch is turned off, the light on the boost converter turns off multiple seconds later. This makes more sense why the light turned off yesterday when the power was broken. Something that I want to do in the future is add a screen or way in which the user can see when they need to charge the battery. If I continue on like this, the user would have to guess when it needed to be recharged. 
+
+**6/9/26**
+I had to restart my CAD arc because 1) somehow the measurements were completely off and were much much larger than I expected and 2) since it is not parametric, it is simply easier to make this design from scratch. I have also found the way to make it super quickly. This version has a radius of 6 cm with 135 degrees. I used a rectangle of 3x11 cm and used the sweep feature tracing the arc. I then filleted the edges of this 1cm to round everything out and added a 3cm hole extruded cut in about 1.8 cm and threaded (and modeled) this whole. I then added a 1 inch slit (around 3 cm) for the strap. There is a picture of it on my main page along with the file. I 3D printed it and will grab it tomorrow. I think that the slit will need to be moved lower down. 
+
+**6/10/26**
+I picked up my arch to see how it looks. It is much thicker than expected, but when I put it against my leg, I realized that the thicker the arch, the more comfortable it is. I think I will make it slightly thinner but for comfortability the thicker model is better. I will print another copy on Friday (most likely will thin it to 2.5 instead of 3 thickness) and now I just need to figure out if the sizing of the peg is too large. I wanted more durability because with the previous model the peg on the plank snapped when too much force was applied, but I also think that if I make it too large, it will be much more difficult to adjust the mirror. I also sent out emails scheduling meetings with the rising senior Jenna Chebaro and some of our graduated seniors because she made a bookholder and I wanted her to make it attacheable to Caroline Uys' clamp in order to reduce moving pieces. Tomorrow, I plan to update my page on the self-cathing aid and adjust the Fusion file. 
+
  
 
 
