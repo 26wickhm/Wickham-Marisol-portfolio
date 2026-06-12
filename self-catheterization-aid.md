@@ -83,9 +83,10 @@ This project taught me alot. One of the things is that similar to my work with t
 ### Demonstration
 
 This was a sized down version to show the function of the aid and how the device deconstructs and is adjustable. 
-| | |
-|---|---|
-| <img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/self_catheterization_aid/IMG_2132.jpeg" width="320"> | <img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/self_catheterization_aid/IMG_2134%20(1).jpeg" width="320"> |
+<p align="center">
+  <img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/self_catheterization_aid/IMG_2132.jpeg" width="48%" />
+  <img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/self_catheterization_aid/IMG_2134%20(1).jpeg" width="48%" />
+</p>
 
 ### Notes and future plans 
 <p align="center">
