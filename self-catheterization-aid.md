@@ -93,8 +93,19 @@ This was a sized down version to show the function of the aid and how the device
   <img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/self_catheterization_aid/IMG_1403.jpeg" width="640">
 </p>
 
+### May 19, 2026 Electronics 
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/self_catheterization_aid/1electronicsmay19.jpeg" width="100%">
+    </td>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/self_catheterization_aid/2electronicsmay19.jpeg" width="100%">
+    </td>
+  </tr>
+</table>
 
-### June 12
+### June 12, 2026
 <table>
   <tr>
     <td>
