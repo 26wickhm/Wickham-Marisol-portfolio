@@ -59,6 +59,7 @@ My plan for this project was less structured, because I was much less familiar w
 [Open Design Specification PDF](https://26wickhm.github.io/Wickham-Marisol-portfolio/assets/files/catheteraid/design%20specification%20self%20catheterization%20aid%20(1).pdf)
 
 **June 9, 2026 Arc**
+
 [Direct Download (Arch Test 3 STL)](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/files/self-catheterization%20aid/archtest3.stl)
 
 **June 12, 2026 Full Set**
@@ -97,10 +98,10 @@ This was a sized down version to show the function of the aid and how the device
 <table>
   <tr>
     <td width="50%">
-      <img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/self_catheterization_aid/1electronicsmay19.jpeg" width="100%">
+      <img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/self_catheterization_aid/electronics%281%295.19.26.jpeg" width="100%">
     </td>
     <td width="50%">
-      <img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/self_catheterization_aid/2electronicsmay19.jpeg" width="100%">
+      <img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/self_catheterization_aid/electronics%282%295.19.26.jpeg" width="100%">
     </td>
   </tr>
 </table>
