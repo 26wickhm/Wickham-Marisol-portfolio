@@ -17,18 +17,16 @@ I saw the need for this on the list that Ms. Heather Smith provided us, and afte
 
 ---
 
-## Current Update (updated weekly) 
-# last update: June 11, 2026
+# Current Update (updated weekly) 
+## last update: June 11, 2026
 
 More of this can be seen in my documentation but as of right now, I am spending the summer working on this aid, I plan to give Heather Smith a prototype of just the frame (no electronics) by June 20th. Since the electronics are worked out for the most part, I am disregarding them until I verify the structuraL frame of the aid. This is because I want to verify sizing and comfortability before I adapt the plank in the middle to fit all of the electronics. I am doing the arches first because the plank is much more straightforward and will only have to be changed based on what size I decide to do the peg. 
-
-## Cost
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/self_catheterization_aid/Screenshot%202026-03-07%20164129.png" width="420">
 </p>
 
-## Electronics
+# Electronics
 
 ## Electronics Components
 
@@ -85,6 +83,7 @@ This project taught me alot. One of the things is that similar to my work with t
 <p align="center">
 <img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/self_catheterization_aid/IMG_1403.jpeg" width="500">
 </p>
+
 ## Research
 
 ### Largest causes of a need for self-catheterization
@@ -227,6 +226,7 @@ I had to restart my CAD arc because 1) somehow the measurements were completely 
 
 **6/10/26**
 I picked up my arch to see how it looks. It is much thicker than expected, but when I put it against my leg, I realized that the thicker the arch, the more comfortable it is. I think I will make it slightly thinner but for comfortability the thicker model is better. I will print another copy on Friday (most likely will thin it to 2.5 instead of 3 thickness) and now I just need to figure out if the sizing of the peg is too large. I wanted more durability because with the previous model the peg on the plank snapped when too much force was applied, but I also think that if I make it too large, it will be much more difficult to adjust the mirror. I also sent out emails scheduling meetings with the rising senior Jenna Chebaro and some of our graduated seniors because she made a bookholder and I wanted her to make it attacheable to Caroline Uys' clamp in order to reduce moving pieces. Tomorrow, I plan to update my page on the self-cathing aid and adjust the Fusion file. 
+
 
  
 
