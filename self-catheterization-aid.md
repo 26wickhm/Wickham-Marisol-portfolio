@@ -72,18 +72,35 @@ The largest mistake that I made was trying to make the difficulty very high befo
 
 This project taught me alot. One of the things is that similar to my work with the donning tube, I have understood more about the innerworkings of a hospital and patient need. Self Catheterization is not a subject that people want to discuss, which is why I capitalized on it. This internship is intended for the people who need help, and I am happy that I got to research. I also learned how to be professional, including going into Zooms with an intended meeting plan and coordinating emails with different specialists that I was put in contact with. This summary is not complete, as this project is still in the beginnings of work. I will update this at the end of each prototype.
 
-## Prototype Photos of Sized Down Demonstration 
+## Prototype Photos
 
+### Demonstration
+
+This was a sized down version to show the function of the aid and how the device deconstructs and is adjustable. 
 | | |
 |---|---|
 | <img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/self_catheterization_aid/IMG_2132.jpeg" width="320"> | <img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/self_catheterization_aid/IMG_2134%20(1).jpeg" width="320"> |
 
-<br>
-
+### Notes and future plans 
 <p align="center">
-<img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/self_catheterization_aid/IMG_1403.jpeg" width="500">
+  <img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/self_catheterization_aid/IMG_1403.jpeg" width="640">
 </p>
 
+
+### June 12
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/self_catheterization_aid/image%20(1).png" width="300">
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/self_catheterization_aid/image%20(2).png" width="300">
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/self_catheterization_aid/image%20(3).png" width="300">
+    </td>
+  </tr>
+</table>
 ## Research
 
 ### Largest causes of a need for self-catheterization
@@ -226,6 +243,19 @@ I had to restart my CAD arc because 1) somehow the measurements were completely 
 
 **6/10/26**
 I picked up my arch to see how it looks. It is much thicker than expected, but when I put it against my leg, I realized that the thicker the arch, the more comfortable it is. I think I will make it slightly thinner but for comfortability the thicker model is better. I will print another copy on Friday (most likely will thin it to 2.5 instead of 3 thickness) and now I just need to figure out if the sizing of the peg is too large. I wanted more durability because with the previous model the peg on the plank snapped when too much force was applied, but I also think that if I make it too large, it will be much more difficult to adjust the mirror. I also sent out emails scheduling meetings with the rising senior Jenna Chebaro and some of our graduated seniors because she made a bookholder and I wanted her to make it attacheable to Caroline Uys' clamp in order to reduce moving pieces. Tomorrow, I plan to update my page on the self-cathing aid and adjust the Fusion file. 
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/self_catheterization_aid/image%20(1).png" width="300">
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/self_catheterization_aid/image%20(2).png" width="300">
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/self_catheterization_aid/image%20(3).png" width="300">
+    </td>
+  </tr>
+</table>
 
 
  
