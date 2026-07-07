@@ -17,10 +17,10 @@ I saw the need for this on the list that Ms. Heather Smith provided us, and afte
 
 ---
 
-# Current Update (updated weekly) 
-## last update: June 11, 2026
+# Current Update (updated bimonthly) 
+## last update: July 7, 2026
 
-More of this can be seen in my documentation but as of right now, I am spending the summer working on this aid, I plan to give Heather Smith a prototype of just the frame (no electronics) by June 20th. Since the electronics are worked out for the most part, I am disregarding them until I verify the structuraL frame of the aid. This is because I want to verify sizing and comfortability before I adapt the plank in the middle to fit all of the electronics. I am doing the arches first because the plank is much more straightforward and will only have to be changed based on what size I decide to do the peg. 
+More of this can be seen in my documentation but as of right now, I am spending the summer working on this aid. I dropped off a prototype with Heather Smith on June 24, 2026. It had both arcs (one with a slit and one without), and a plank in the middle. I did not put the electronics because I don't want to adapt the design to fit them until the structure is solidified. The feedback can be seen in totality in documentation under 7/3/26, but the takeaways are that I need to change the structure to have a longer plank, have cleanable padding on the arcs, increase the threading on the pegs for easy shortening or lengthening, and confirming that the LEDs are bright enough. I am taking all of this information and will drop off another prototype. Ideally, I will be able to drop it off tomorrow before my trip but if not, I will drop it when I get home (7/19/26). 
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/self_catheterization_aid/Screenshot%202026-03-07%20164129.png" width="420">
