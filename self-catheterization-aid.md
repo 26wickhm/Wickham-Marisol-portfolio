@@ -69,6 +69,18 @@ My plan for this project was less structured, because I was much less familiar w
 [Direct Download (June 12 Arc - No Slits STL)](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/files/self-catheterization%20aid/june12arcnoslits.stl)
 
 [Direct Download (June 12 Plank STL)](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/files/self-catheterization%20aid/june12plank.stl)
+
+**June 22, 2026 Arcs**
+
+[Direct Download (June 22 Arc STL)](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/files/catheteraid/june22fullarc1.stl)
+
+[Direct Download (June 22 Arc - No Slits STL)](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/files/catheteraid/june22fullarc1(noslit).stl)
+
+_I used the plank from June 12 with these arcs_
+
+| Slitted Version | Non-Slitted Version |
+|---|---|
+| <img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/self_catheterization_aid/june22Fusionslits.png" width="260"> | <img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/self_catheterization_aid/june22Fusionnoslits.png" width="260"> |
 ---
 
 ### Mistakes and Challenges (4/15/26)
