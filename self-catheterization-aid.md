@@ -22,10 +22,6 @@ I saw the need for this on the list that Ms. Heather Smith provided us, and afte
 
 More of this can be seen in my documentation but as of right now, I am spending the summer working on this aid. I dropped off a prototype with Heather Smith on June 24, 2026. It had both arcs (one with a slit and one without), and a plank in the middle. I did not put the electronics because I don't want to adapt the design to fit them until the structure is solidified. The feedback can be seen in totality in documentation under 7/3/26, but the takeaways are that I need to change the structure to have a longer plank, have cleanable padding on the arcs, increase the threading on the pegs for easy shortening or lengthening, and confirming that the LEDs are bright enough. I am taking all of this information and will drop off another prototype. Ideally, I will be able to drop it off tomorrow before my trip but if not, I will drop it when I get home (7/19/26). 
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/self_catheterization_aid/Screenshot%202026-03-07%20164129.png" width="420">
-</p>
-
 # Electronics
 
 ## Electronics Components
@@ -57,6 +53,10 @@ My plan for this project was less structured, because I was much less familiar w
 [Direct Download (Threaded Bar STL)](https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/files/catheteraid/bar%20for%20self%20catheterization%20aid%20with%20threading%20(~recovered).stl)
 
 [Open Design Specification PDF](https://26wickhm.github.io/Wickham-Marisol-portfolio/assets/files/catheteraid/design%20specification%20self%20catheterization%20aid%20(1).pdf)
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/26wickhm/Wickham-Marisol-portfolio/main/assets/images/self_catheterization_aid/Screenshot%202026-03-07%20164129.png" width="420">
+</p>
 
 **June 9, 2026 Arc**
 
